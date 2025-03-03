@@ -1,0 +1,1001 @@
+map_id,template_no,question,ground_truth,c_or_d,relative_region
+1_3C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+1_3C,19,Yes or no: the value of the state Jiangsu is similar to state Zhejiang.,Yes,c,N
+1_3C,15,List the states bordering North Korea with the highest value.,Liaoning,c,Y
+1_3C,3,What is the overall range of the legend?,5k-40k,c,N
+1_3C,18,Yes or no: the value of Shanghai is higher than its neighbouring state Zhejiang.,Yes,c,Y
+1_3C,5,Yes or no: the legend has multiple distinct colours.,No,c,N
+1_3C,28,Which state bordering Mongolia has the closest value to state Fujian?,Inner Mongolia,c,Y
+1_3C,20,Name the East most state that has a higher value compared to all its neighbours.,Shanghai,c,Y
+1_3C,21,Yes or no: state Qinghai has the highest value among the states bordering Tibet .,No,c,Y
+1_3C,39,Yes or no: all states bordering Russia have values in range 35000 - 40000.,No,c,N
+2_3C,22,Yes or no: States bordering Mongolia have lower values on average than states bordering India.,No,c,N
+2_3C,32,Yes or no: Hunan is an outlier compared to other states along the Indian border.,No,c,N
+2_3C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+2_3C,36,Name the west most state with values in range < -30.,Tibet,c,N
+2_3C,30,Does Jilin have the same value as Beijing amongst the states in the north east region?,No,c,N
+2_3C,5,Yes or no: the legend has different shades of the same colour.,Yes,c,N
+2_3C,28,Which state bordering South China Sea has the closest value to Xinjiang?,Guangdong,c,Y
+2_3C,34,Yes or no: Heilongjiang is the North most state that has a higher value compared to all its neighbours.,Yes,c,Y
+2_3C,33,Yes or no: Tibet and Qinghai are the pair of bordering states with the highest difference.,Yes,c,Y
+2_3C,27,Which states bordering South China Sea have a similar value as Tibet?,,c,Y
+3_6C,36,Name the North most state with values in the highest range.,Heilongjiang,c,N
+3_6C,16,Between which two legend markings does Hunan fall in?,4 - 4.5,c,N
+3_6C,39,Yes or no: all coastal states have values below 2.0.,No,c,N
+3_6C,27,Which states with coasts have a value similar to Tibet?,"Guangdong, Hainan",c,N
+3_6C,30,Does Qinghai have the same value as Jilin?,No,c,N
+3_6C,3,What is the overall range of the legend?,<1.5 - 4.5,c,N
+3_6C,17,Count the states with the values in range 2.5 - 3.0 in the region bordering Pakistan.,1,c,Y
+3_6C,22,Yes or no: States bordering Myanmar have similar values on average than states bordering Russia.,No,c,N
+3_6C,35,How many states bordering Russia have a value higher than Shandong?,2,c,Y
+3_6C,42,"Yes/No: Sichuan has a similar value as Hunan, and also a higher value than Zhejiang.",Yes,c,N
+4_1C,7,Is the legend continuous or discrete?,Continuous,c,N
+4_1C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+4_1C,20,Name the West most state that has a higher compared to all its neighbours.,Xinjiang,c,Y
+4_1C,35,How many states bordering Russia have a value similar to Hainan?,0,c,Y
+4_1C,10,Is the value of Beijing closer to Hainan or Yunnan?,Hainan,c,N
+4_1C,6,Yes or no: the map depicts percentages.,No,c,N
+4_1C,15,List the states bordering Pakistan with the highest values.,Xinjiang,c,Y
+4_1C,3,What is the overall range of the legend?,< -20 - >80,c,N
+4_1C,41,Are the legends evenly spaced?,Yes,c,N
+4_1C,32,Yes or no: Beijing is an outlier compared to its neighbours.,Yes,c,Y
+5_5C,23,How many states bordering Russia have a value higher than 6?,1,c,Y
+5_5C,11,Which state bordering Russia belong to range 6.5 - 7?,Heilongjiang,c,N
+5_5C,19,Yes or no: the value of Guangdong is higher than Jilin.,Yes,c,N
+5_5C,3,What is the overall range of the legend?,<4.5 - >7,c,N
+5_5C,35,How many states bordering India have a value lower than Fujian?,1,c,Y
+5_5C,20,Name the South most state that has a lower value compared to all its neighbours.,Guangdong,c,Y
+5_5C,33,Yes or no: Hunan and Guangdong are the pair of bordering states with the highest difference.,Yes,c,Y
+5_5C,17,Count the states with the values in the range <4.5.,1,c,N
+5_5C,22,Yes or no: States bordering Tajikistan have lower values on average than states bordering Russia.,Yes,c,N
+5_5C,10,Is the value of Henan closer to Shandong or Shanxi?,Shandong,c,N
+6_3C,35,How many states bordering Russia have a value similar to Guangdong?,1,c,Y
+6_3C,9,Does the value of Tibet fall in range -10 - -15?,Yes,c,N
+6_3C,34,Yes or no: Heilongjiang is the North most state that has a higher value compared to all its neighbours.,Yes,c,Y
+6_3C,22,Yes or no: States bordering Beijing have higher values on average than states bordering Guizhou.,Yes,c,Y
+6_3C,32,Yes or no: Hainan is an outlier compared to other states bordering South China Sea.,Yes,c,Y
+6_3C,10,Is the value of Sichuan closer to Yunnan or Tibet?,Yunnan,c,N
+6_3C,33,Yes or no: Hebei and Beijing are a pair of bordering states with the highest difference.,Yes,c,Y
+6_3C,18,Yes or no: the value of Tibet is similar to its neighbouring state Qinghai.,Yes,c,Y
+6_3C,42,"Yes/No: Fujian has a lower value than Hebei, and also have a higher value than Sichuan",No,c,N
+6_3C,43,"Rank the states Hainan, Guangdong and Guangxi in terms of the legend value along the South China Sea border.",Guangdong > Guangxi > Hainan,c,N
+7_6C,11,Which states bordering Afghanistan belong to range <10?,Xinjiang,c,Y
+7_6C,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,Yes,c,N
+7_6C,26,Which states bordering India have a value lower than 20?,"Tibet, Xinjiang",c,Y
+7_6C,20,Name the South most state that has a higher value compared to all its neighbours.,Sichuan,c,Y
+7_6C,36,Name the East most state with values in range 30-40.,Heilongjiang,c,N
+7_6C,3,What is the overall range of the legend?,0-50,c,N
+7_6C,31,Yes or no: a majority of coastal states have values less greater than 50.,No,c,N
+7_6C,13,Which state has the least value along the international land border?,Tibet,c,N
+7_6C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+7_6C,21,Yes or no: Neimongol has the least value along Mongolia's border.,Yes,c,N
+8_5C,19,Yes or no: the value of Tibet is higher than Jilin.,Yes,c,N
+8_5C,22,Yes or no: Provinces bordering South China Sea have similar values on average than states bordering Kazakhstan.,No,c,Y
+8_5C,6,Yes or no: the map depicts percentages.,No,c,N
+8_5C,27,Which states bordering Qinghai have a value similar to Shandong?,"Xinjiang, Tibet",c,Y
+8_5C,7,Is the legend continuous or discrete?,Continuous,c,N
+8_5C,43,"Rank the states Inner Mongolia, Liaoning and Shandong in terms of the legend value in region R.",Liaoning < Inner Mongolia < Shandong,c,N
+8_5C,33,Yes or no: Yunnan and Guizhou are the pair of bordering states with the highest difference.,No,c,Y
+8_5C,32,Yes or no: Guangdong is an outlier compared to other states bordering South China Sea.,No,c,Y
+8_5C,3,What is the overall range of the legend?,<0 - >10,c,N
+8_5C,31,Yes or no: a majority of states bordering North Korea have values less than 2.,Yes,c,N
+9_2C,23,How many states bordering Guangdong have a value higher than 12?,3,c,Y
+9_2C,27,Which states bordering India have a value higher than state Shanghai?,Xinjiang,c,Y
+9_2C,19,Yes or no: the value of Beijing is lower than Tibet.,Yes,c,N
+9_2C,9,Does the value of Tibet fall in range >14?,Yes,c,N
+9_2C,3,What is the overall range of the legend?,<6 - >14,c,N
+9_2C,10,Is the value of Shanghai closer to 6 or 10?,6,c,N
+9_2C,13,Which state has the highest value in the region bordering Vietnam?,Guangxi,c,Y
+9_2C,42,Yes/No: Gansu has a similar value as Sichuan and also have a lower value than Ningxia.,Yes,c,N
+9_2C,41,Are the legends evenly spaced?,Yes,c,N
+9_2C,16,Between which two legend markings does Hainan fall in?,12-13,c,N
+10_5C,19,Yes or no: the value of Hubei is similar to Guangdong.,Yes,c,N
+10_5C,31,Yes or no: a majority of states bordering Russia have values less than 60.,Yes,c,N
+10_5C,6,Yes or no: the map depicts percentages.,No,c,N
+10_5C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+10_5C,3,What is the overall range of the legend?,<0 - >140,c,N
+10_5C,39,Yes or no: all states bordering India have values below 40.,Yes,c,N
+10_5C,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,No,c,N
+10_5C,35,How many states bordering Tibet have a value higher than Ningxia?,2,c,Y
+10_5C,11,Which states bordering Shanghai belong to range 120-140?,,c,Y
+10_5C,28,Which state has the farthest value to state bordering Nepal?,"Guangdong, Hubei",c,Y
+11_5C,7,Is the legend continuous or discrete?,Continuous,c,N
+11_5C,23,How many states bordering Guangdong have a value lower than 500?,1,c,Y
+11_5C,6,Yes or no: the map depicts percentages.,No,c,N
+11_5C,42,Yes/No: Tibet has a higher value than state Hunan and also Jilin.,No,c,N
+11_5C,21,Yes or no: Hubei has the least value in region surrounding Shanghai.,No,c,N
+11_5C,20,Name the East most state that has a higher value compared to all its neighbours.,Jiangsu,c,Y
+11_5C,32,Yes or no: Guangdong is an outlier compared to states bordering it.,Yes,c,Y
+11_5C,17,Yes or no: the map depicts absolute values.,Yes,c,N
+11_5C,36,Name the West most state with values in range 0-500.,Tibet,c,N
+11_5C,34,Yes or no: Tibet is the South most state that has a higher value compared to all its neighbours.,No,c,Y
+12_4C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+12_4C,21,Yes or no: state Guangdong has the highest value in the South China sea region.,Yes,c,N
+12_4C,39,Yes or no: all states bordering Mongolia have values below 600.,Yes,c,N
+12_4C,11,Which states bordering Beijing belong to the range 1200-1400?,,c,Y
+12_4C,34,Yes or no:Tianjin is the North most state that has a higher value compared to all its neighbours.,No,c,Y
+12_4C,3,What is the overall range of the legend?,<0 - 1400,c,N
+12_4C,19,Yes or no: the value of Shanxi is similar to state Yunnan.,Yes,c,N
+12_4C,16,Between which two legend markings does state Shandong fall in?,1000 - 1200,c,N
+12_4C,23,How many states bordering Vietnam have a value higher than 1000?,0,c,Y
+12_4C,20,Name the East most state that has a lower value compared to all its neighbours.,Heilongjiang,c,Y
+13_1C,31,Yes or no: a majority of states bordering Hubei have values less than 10.,Yes,c,Y
+13_1C,39,Yes or no: all states bordering India have values below 0.,No,c,N
+13_1C,26,Which states bordering Tibet have a value higher than 15?,Xinjiang,c,Y
+13_1C,13,Which state has the highest value along the Russian border?,Inner Mongolia and Jilin,c,N
+13_1C,3,What is the overall range of the legend?,-15 - 25,c,N
+13_1C,33,Yes or no: Xinjiang and Tibet are the pair of bordering states with the highest difference.,Yes,c,Y
+13_1C,42,Yes/No: Sichuan has a similar value as Qinghai and also a lower value than Hubei.,Yes,c,N
+13_1C,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,No,c,N
+13_1C,21,Yes or no: Tibet has the highest value in region bordering Myanmar.,No,c,Y
+13_1C,11,Which states bordering Laos belong to range 20-25?,,c,Y
+14_3C,33,Yes or no: Hunan and Hubei are the pair of bordering states with the highest difference.,No,c,Y
+14_3C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+14_3C,26,Which states bordering Fujian have a value higher than 10?,Zhegiang,c,Y
+14_3C,11,Which states in the region bordering Jiangsu belong to lowest range?,,c,Y
+14_3C,30,Does state Qinghai have the same different value to state Tibet.,Yes,c,N
+14_3C,28,Which state bordering Kazakhstan has the closest value to state Jilin?,,c,Y
+14_3C,19,Yes or no: the value of Beijing is similar to Hebei.,Yes,c,N
+14_3C,43,Yes or no: the map depicts absolute values.,Yes,c,N
+14_3C,6,Yes or no: the map depicts percentages.,No,c,N
+14_3C,17,Count the states with the values in the highest range,1,c,N
+16_1C,43,"Rank the states Guangdong, Shandong and Hainan in terms of the legend value.",Guangdong > Shandong > Hainan,c,N
+16_1C,20,Name the South most state that has a higher value compared to all its neighbours.,Guangdong,c,Y
+16_1C,13,Which state has the highest value along the South China Sea?,Guangdong,c,N
+16_1C,34,Yes or no: Xinjiang is the West most state that has a similar value compared to all its neighbours.,Yes,c,Y
+16_1C,30,Yes or no: the map depicts percentages.,No,c,N
+16_1C,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,Yes,c,N
+16_1C,33,Yes or no: Tibet and Xinjiang are the pair of bordering states with the highest difference.,No,c,Y
+16_1C,7,Is the legend continuous or discrete?,Continuous,c,N
+16_1C,16,Are the legends evenly spaced?,Yes,c,N
+16_1C,3,What is the overall range of the legend?,<0 - 4500,c,N
+17_4C,32,Yes or no: state Guangdong is an outlier compared to other states in the South China sea region.,Yes,c,N
+17_4C,19,Yes or no: the value of Shanghai is lower than Jiangsu.,Yes,c,N
+17_4C,30,Does Hainan have the same value as Yunnan amongst the states in the South China Sea region.,No,c,N
+17_4C,36,Name the South most state with values in range <200.,Hainan,c,N
+17_4C,27,Which states in the East China Sea region have a value higher than state Guangdong?,"Jiangsu, Zhejiang",c,N
+17_4C,41,Are the legends evenly spaced?,Yes,c,N
+17_4C,16,Between which two legend markings does Shandong fall in?,400 - 600,c,N
+17_4C,3,What is the overall range of the legend?,<0 - >800,c,N
+17_4C,39,Yes or no: all states bordering Russia have values in range <200.,Yes,c,N
+17_4C,26,Which states bordering India have a value higher than 800?,,c,Y
+18_2C,30,Between which two legend markings does Jilin fall in?,0-50,c,N
+18_2C,7,Is the legend continuous or discrete?,Continuous,c,N
+18_2C,10,Is the value of Tibet closer to <50 or 150-200?,<50,c,N
+18_2C,31,Yes or no: a majority of states in the East China Sea region have values greater than 350.,No,c,N
+18_2C,33,Yes or no: Inner Mongolia and Shandong are the pair of bordering states with the highest difference.,No,c,N
+18_2C,41,Are the legends evenly spaced?,Yes,c,N
+18_2C,5,Yes or no: the legend has different shades of the same colour?,No,c,N
+18_2C,16,Between which two legend markings does Guangdong fall in?,>350,c,N
+18_2C,3,What is the overall range of the legend?,<0 - >350,c,N
+18_2C,22,Yes or no: States bordering India have higher values on average than states bordering Russia.,No,c,N
+19_5C,18,Yes or no: the value of Hubei is higher than its neighbouring state Hunan.,Yes,c,Y
+19_5C,21,Yes or no: state Guangdong has the highest value in the South China Sea region.,Yes,c,N
+19_5C,16,Between which two legend markings does state Hubei fall in?,>120,c,N
+19_5C,19,Yes or no: the value of the state Xinjiang is higher than Tibet.,Yes,c,N
+19_5C,30,Does Jilin have the same value as Heibei amongst the states in the East China Sea region.,Yes,c,N
+19_5C,42,"Yes/No: Guangdong has a higher value than Tibet, and also have a similar value as Hubei.",Yes,c,N
+19_5C,3,What is the overall range of the legend?,<0 - >120,c,N
+19_5C,17,Count the states with the values in range >120 in the South China Sea region.,1,c,N
+19_5C,20,Name the West most state that has a lower value compared to all its neighbours.,Tibet,c,Y
+19_5C,27,Which states in South China region have a value higher than Hubei?,Guangdong,c,N
+20_6C,13,Which state has the highest value in the South China Sea region?,Guangdong,c,N
+20_6C,3,What is the overall range of the legend?,<0 - >40000,c,N
+20_6C,42,"Yes/No: Guangdong has a higher value than Tibet, and also a similar value as Zhejiang.",Yes,c,N
+20_6C,22,Yes or no: States bordering South China Sea have higher values on average than states bordering Russia.,Yes,c,N
+20_6C,6,Yes or no: the map depicts percentages.,No,c,N
+20_6C,7,Is the legend continuous or discrete?,Continuous,c,N
+20_6C,41,Are the legends evenly spaced?,Yes,c,N
+20_6C,28,Which state in the East China Sea region has the closest value to Sichuan?,Fujian,c,N
+20_6C,11,Which states bordering India belong to the highest range?,,c,Y
+20_6C,27,Which states in the South China region have a value similar to Tibet?,Hainan,c,N
+21_3C,35,How many states bordering Russia have a value similar to Tianjin?,0,c,Y
+21_3C,19,Yes or no: the value of Beijing is similar to Tibet.,No,c,N
+21_3C,33,Yes or no: Shanxi and Henan are the pair of bordering states with the highest difference.,No,c,Y
+21_3C,32,Yes or no: state Zhejiang and Tianjin are outliers compared to other states in the East China Sea region.,Yes,c,N
+21_3C,34,Yes or no: Zhejiang is the East most state that has a higher value compared to all its neighbours.,Yes,c,Y
+21_3C,13,Which state has the least value in the South China Sea region?,Hainan,c,N
+21_3C,7,Is the legend continuous or discrete?,Continuous,c,N
+21_3C,16,Between which two legend markings does Jilin fall in?,< -15,c,N
+21_3C,43,"Rank the states Qinghai, Zhejiang and Ningxia in terms of the legend value.",Zhejiang > Qinghai > Ningxia,c,N
+21_3C,27,Which states bordering India have a value similar to Shaanxi?,Tibet,c,Y
+22_2C,17,Count the states with the values in range >2500.,3,c,N
+22_2C,15,List the 3 states in the East China Sea region with the highest values.,"Shandong, Jiangsu, Zhejiang",c,N
+22_2C,32,Yes or no: Tibet is an outlier compared to other states in the South China Sea region.,No,c,N
+22_2C,39,Yes or no: all states bordering North Korea have values in range 2000-2500.,No,c,N
+22_2C,21,Yes or no: Guangxi has the highest value among the neighbours of Guizhou.,Yes,c,Y
+22_2C,31,Yes or no: a majority of states bordering Russia have values less than 1000.,Yes,c,N
+22_2C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+22_2C,9,Does the value of Hainan fall in range 2000 - 2500?,No,c,N
+22_2C,23,How many states in the East China Sea region have a value higher than 2000?,3,c,N
+22_2C,19,Yes or no: the value of Guangdong is lower than Shandong.,Yes,c,N
+23_5C,2,Yes or no: in the legend the colour darkness/intensity is directly proportional to the value.,Yes,c,N
+23_5C,26,Are the legends evenly spaced?,Yes,c,N
+23_5C,35,How many states bordering India have a value similar to Inner Mongolia?,1,c,Y
+23_5C,9,Is the legend continuous or discrete?,Continuous,c,N
+23_5C,3,What is the overall range of the legend?,<0 - >1500,c,N
+23_5C,33,Yes or no: Guangdong and Guangxi are the pair of bordering states with the highest difference.,Yes,c,Y
+23_5C,27,Which states with coasts have a value higher than state Guangdong?,,c,N
+23_5C,22,Yes or no: States bordering India have similar values on average than states bordering North Korea.,Yes,c,N
+23_5C,42,"Yes/No: Guangdong has a higher value than Qinghai, and also have a similar value as Liaoning.",No,c,N
+23_5C,20,Name the South most state that has a higher value compared to all its neighbours.,Guangdong,c,Y
+5_1C,17,Count the states with the values in >8.5 along the North Korea border.,2,c,N
+5_1C,13,Which state has the least value in the South China Sea region?,Guangdong,c,N
+5_1C,41,Are the legends evenly spaced?,Yes,c,N
+5_1C,16,Between which two legend markings does Tibet fall in?,5 - 5.5,c,N
+5_1C,23,How many states bordering Guangdong have a value lower than 7?,3,c,Y
+5_1C,18,Yes or no: the value of Shaanxi is similar to its neighbouring state Shanxi.,Yes,c,Y
+5_1C,20,Name the East most state that has a higher value compared to all its neighbours.,Heilongjiang,c,Y
+5_1C,15,List the states bordering Russia with the highest value.,Heilongjiang,c,Y
+5_1C,28,Which state bordering Qinghai has the closest value to Hunan?,Gansu,c,Y
+5_1C,3,What is the overall range of the legend?,<5 - >8.5,c,N
+3_1C,30,Does Fujian have the same value as Guizhou amongst the states in the south east region.,Yes,c,N
+3_1C,32,Yes or no: Liaoning is an outlier compared to other states with coasts.,Yes,c,N
+3_1C,3,What is the overall range of the legend?,<2.5 - >4.5,c,N
+3_1C,22,Yes or no: States bordering Bhutan have lower values on average than states bordering North Korea.,Yes,c,N
+3_1C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+3_1C,7,Is the legend continuous or discrete?,Continuous,c,N
+3_1C,35,How many states bordering Sichuan have a value similar to Jilin?,1,c,Y
+3_1C,43,"Rank the states Qinghai, Tibet and Gansu in terms of the legend value.",Gansu > Tibet > Qinghai,c,N
+3_1C,15,List the states bordering Vietnam with the lowest values.,Guangxi,c,Y
+3_1C,31,Yes or no: a majority of states bordering Russia have values greater than 3.5.,Yes,c,N
+14_8C,6,Yes or no: the map depicts percentages.,No,c,N
+14_8C,26,Which states bordering Myanmar have a value lower than 20000?,"Tibet, Yunnan",c,Y
+14_8C,41,Are the legends evenly spaced?,Yes,c,N
+14_8C,20,Name the South most state that has a higher value compared to all its neighbours.,Guangdong,c,Y
+14_8C,36,Name the South most state with values in range <10000.,Hainan,c,N
+14_8C,11,Which states bordering South China Sea belong to the range 50000 - 60000?,,c,Y
+14_8C,33,Yes or no: Tibet and Qinghai are the pair of bordering states with the highest difference.,No,c,Y
+14_8C,17,Count the states with the values in range 20000 - 30000.,5,c,N
+14_8C,43,"Rank the states Hunan, Jiangxi and Zhejiang in terms of the legend value.",Zhejiang > Hunan > Jiangxi,c,N
+14_8C,10,Is the value of state Ningxia closer to Qinghai or Hebei?,Qinghai,c,N
+1_1D,22,Yes or no: States bordering Bhutan have higher values on average than states bordering Russia.,No,d,N
+1_1D,42,"Yes/No: Beijing has a higher value than Yunnan, and also have a similar value to Liaoning.",Yes,d,N
+1_1D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+1_1D,43,"Rank the states Sichuan, Chongqing and Guizhou in terms of the legend value.",Guizhou < Sichuan < Chongqing,d,N
+1_1D,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,No,d,N
+1_1D,34,Yes or no: Jilin is the North most state that has a lower value compared to all its neighbours.,Yes,d,Y
+1_1D,9,Does the value of Guangdong fall in the highest range?,Yes,d,N
+1_1D,7,Is the legend continuous or discrete?,Discrete,d,N
+1_1D,36,Name the West most state with values in the lowest range.,Tibet,d,N
+1_1D,15,List the states bordering East China Sea with the lowest range values.,,d,Y
+2_3D,11,Which states in the South China Sea belong to the second highest range?,Guangdong,d,N
+2_3D,1,How many distinct categories does the legend contain?,6,d,N
+2_3D,23,How many states in the South China Sea region have a value higher than 5?,3,d,N
+2_3D,8,Which class has the largest range of values?,-34.10 - -10.60,d,N
+2_3D,18,Yes or no: the value of Heilongjiang is similar to its neighbouring state Jilin.,Yes,d,Y
+2_3D,12,What is the lowest value range in the South China Sea region?,-10.60 - -6.90,d,N
+2_3D,7,Is the legend discrete or continuous?,Discrete,d,N
+2_3D,31,Yes or no: a majority of states bordering North Korea belong to range greater than -6.90.,Yes,d,N
+2_3D,34,Yes or no: Guangdong is the South most state that has a higher value compared to all its neighbours.,Yes,d,Y
+3_6D,32,Yes or no: Shaanxi is an outlier compared to other states bordering Sichuan.,No,d,Y
+3_6D,37,Which state in range 1.40 - 2.90 borders at least 2 states from the highest range?,Gansu,d,N
+3_6D,19,Yes or no: the value of Sichuan is higher than Beijing.,Yes,d,N
+3_6D,3,What is the overall range of the legend?,1.40 - 4.50,d,N
+3_6D,13,Which state has the least value in the South China region?,"Hainan, Guangdong, Guangxi",d,N
+3_6D,34,Yes or no: Heilongjiang is the North most state that has a higher value compared to all its neighbours.,Yes,d,Y
+3_6D,27,Which states bordering India have a value higher than Hainan?,,d,Y
+3_6D,1,How many distinct categories does the legend contain?,5,d,N
+3_6D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+3_6D,42,"Yes/No: Jilin has a higher value than Hainan, and also have a similar value than Shaanxi",Yes,d,N
+4_4D,33,Yes or no: Inner Mongolia and Liaoning are a pair of bordering states with the highest difference.,Yes,d,N
+4_4D,7,Is the legend discrete or continuous?,Discrete,d,N
+4_4D,41,Are the legends evenly spaced?,No,d,N
+4_4D,5,Yes or no: the legend has different shades of the same colour?,Yes,d,N
+4_4D,9,Does Tibet fall in the lowest range?,No,d,N
+4_4D,3,What is the overall range of the legend?,-41.70 - 50.60,d,N
+4_4D,30,Does Jiangsu have the same value as Zhejiang amongst the states bordering East China Sea.,Yes,d,Y
+4_4D,23,How many states bordering India have a value higher than 2.40?,1,d,Y
+4_4D,1,How many distinct categories does the legend contain?,3,d,N
+4_4D,37,Which state in the least range borders at least 2 states from the highest range?,Inner Mongolia,d,N
+5_7D,21,Yes or no: Shanghai has the lowest value in the East China Sea region.,Yes,d,N
+5_7D,13,Which state has the higest value in the East China Sea region?,"Shandong, Jiangsu",d,N
+5_7D,38,Yes or no: the value of Guangdong is below the median value amongst states in the South China region.,Yes,d,N
+5_7D,36,Name the West most state in the highest range.,Sichuan,d,N
+5_7D,43,"Rank the states Gansu, Inner Mongolia and Heilongjiang in terms of the legend value in the Russia border region.",Heilongjiang > Gansu > Inner Mongolia,d,N
+5_7D,19,Yes or no: the value of Henan is similar to Sichuan.,Yes,d,N
+5_7D,15,List the 2 states in the Indian border region with the same values.,"Tibet, Xinjiang",d,Y
+5_7D,30,Does Zhejiang have the same value as Guangdong mongst the states in the south east coastal region.,Yes,d,N
+5_7D,37,Which state in the north east region borders at least 3 from range 6.21 - 6.65?,Inner Mongolia,d,N
+6_3D,5,Yes or no: the legend has different shades of the same colour?,Yes,d,N
+6_3D,37,Which state in the lowest range borders at least 5 states from range -1.80 - 7.90?,Guizhou,d,N
+6_3D,43,"Rank the states Tibet, Xinjiang and Guangdong in terms of the legend value.",Guangdong > Xinjiang > Tibet,d,N
+6_3D,30,Does Hunan have the same value as Guangxi amongst the states in northeast region.,Yes,d,N
+6_3D,41,Are the legends evenly spaced?,No,d,N
+6_3D,12,What is the highest value range in the north-east region?,7.90 - 22.60,d,N
+6_3D,22,Yes or no: Coastal states have higher values on average than inland states.,Yes,d,N
+6_3D,6,Yes or no: the map depicts percentages.,No,d,N
+6_3D,32,Yes or no: Heilongjiang is an outlier compared to other states in the northeast region.,Yes,d,N
+6_3D,4,What value range does the darkest shade represent?,7.90 - 22.60,d,N
+7_0D,1,How many distinct categories does the legend contain?,5,d,N
+7_0D,17,Count the coastal states with the values in range 28.3 - 37.20 in the southeast region.,1,d,N
+7_0D,34,Yes or no: Guangdong is the South most state that has a higher value compared to all its neighbours.,Yes,d,Y
+7_0D,36,Name the South most state in the highest range.,Guangdong,d,N
+7_0D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+7_0D,27,Which states in the northeast region have a value lower than Shaanxi?,"Heilongjiang, Jilin",d,N
+7_0D,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,No,d,N
+7_0D,19,Yes or no: the value of the state Liaoning is higher than state Tibet.,Yes,d,N
+7_0D,8,Which class has the largest range of values?,37.20 - 62.90,d,N
+7_0D,5,Yes or no: the legend has different shades of the same colour?,Yes,d,N
+7_8D,26,Which states in the northeast region have a value higher than 38.30?,"Heilongjiang, Liaoning",d,N
+7_8D,43,"Rank the states Qinghai, Sichuan and Hebei in terms of the legend value.",Sichuan > Hebei > Qinghai,d,N
+7_8D,27,Which states bordering India have a value similar to Tianjin?,,d,Y
+7_8D,42,Yes/No: Henan has a similar value to Sichuan and also Shandong.,Yes,d,N
+7_8D,23,How many coastal states have a value lower than 22.30?,2,d,N
+7_8D,15,List the 2 states bordering India with the lowest values.,Tibet and Xinjiang,d,N
+7_8D,1,How many distinct categories does the legend contain?,5,d,N
+7_8D,5,Yes or no: the legend has multiple distinct colours?,Yes,d,N
+7_8D,39,Yes or no: all states in the South China region have values above 29.40.,No,d,N
+7_8D,3,What is the overall range of the legend?,1.70 - 54.40,d,N
+8_3D,5,Yes or no: the legend has multiple distinct colours?,Yes,d,N
+8_3D,36,Name the South most state in the lowest range.,Shanghai,d,N
+8_3D,12,What is the least value range in the north-east region?,-1.00 - 3.07,d,N
+8_3D,34,Yes or no: Ningxia is the North most state that has a higher value compared to all its neighbours.,Yes,d,Y
+8_3D,16,What value range does Yunnan fall in?,4.92 - 7.02,d,N
+8_3D,39,Yes or no: all states in the south east region have values above 4.92.,Yes,d,N
+8_3D,19,Yes or no: the value of Ningxia is similar to Hainan.,Yes,d,N
+8_3D,6,Yes or no: the map depicts percentages.,No,d,N
+8_3D,7,Is the legend discrete or continuous?,Discrete,d,N
+8_3D,40,Which pair of states belonging to the highest range are the closest to each other?,Tibet and Qinghai,d,Y
+9_0D,5,Yes or no: the legend has multiple distinct colours?,Yes,d,N
+9_0D,7,Is the legend discrete or continuous?,Discrete,d,N
+9_0D,28,Which state bordering South China Sea has the same value as Inner Mongolia?,,d,Y
+9_0D,19,Yes or no: the value of Shanghai is higher than Hainan.,No,d,N
+9_0D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+9_0D,8,Which class has the largest range of values?,7.36 - 14.24,d,N
+9_0D,42,Yes/No: Guangdong has a higher value than Jilin and also Beijing.,Yes,d,N
+9_0D,41,Are the legends evenly spaced?,No,d,N
+9_0D,9,Does Qinghai fall in the highest range?,Yes,d,N
+9_0D,34,Yes or no: Xinjiang is the West most state that has a lower value compared to all its neighbours.,Yes,d,Y
+10_3D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+10_3D,18,Yes or no: the value of Hunan is higher than its neighbouring state Chingqing.,No,d,Y
+10_3D,13,Which state has the least value in the South China Sea region?,Hainan,d,N
+10_3D,35,How many states bordering South China Sea have a value similar to Tibet?,1,d,Y
+10_3D,12,What is the higest value range along Russia's border?,54.20 - 75.00,d,N
+10_3D,11,Which states in region bordering Bhutan belong to the highest range?,,d,Y
+10_3D,26,Which states bordering India have a value lower than 54.20?,"Tibet, Xinjiang",d,Y
+10_3D,28,Which state in the East China region has the same value as Ningxia?,Tianjin,d,N
+10_3D,1,How many distinct categories does the legend contain?,3,d,N
+10_3D,27,Which states bordering North Korea have a value lower than Guangdong?,"Jilin, Liaoning, Heilongjiang",d,Y
+11_1D,43,"Rank the states Hainan, Guangdong and Fujian in terms of the legend value in the South China Sea region.",Guangdong > Fujian > Hainan,d,N
+11_1D,36,Name the West most state in the lowest range.,Tibet,d,N
+11_1D,27,Which states in the north east region have a value similar to Fujian?,Jilin,d,N
+11_1D,7,Is the legend discrete or continuous?,Discrete,d,N
+11_1D,35,How many states in the East China Sea region have a value similar to Shanxi?,2,d,N
+11_1D,37,Which state in the highest range borders at least 2 states from the same range?,Shandong,d,N
+11_1D,42,"Yes/No: Hunan has a higher value than Qinghai, and also a similar value as Shandong",Yes,d,N
+11_1D,16,What value range does Jilin fall in?,398.14 - 745.49,d,N
+11_1D,41,Are the legends evenly spaced?,No,d,N
+11_1D,1,How many distinct categories does the legend contain?,7,d,N
+12_2D,43,"Rank the states Jilin, Beijing and Hebei in terms of the legend value.",Hebei > Jilin > Beijing,d,N
+12_2D,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,d,N
+12_2D,17,Count the states with the values in the highest range in the East China Sea region.,5,d,N
+12_2D,40,Which pair of north east states belonging to the second highest range are the closest to each other?,Liaoning and Jilin,d,N
+12_2D,35,How many states bordering India have a value similar to Beijing?,1,d,N
+12_2D,27,Which states bordering Vietnam have a value similar to Shanghai?,,d,Y
+12_2D,16,What value range does Ningxia fall in?,31.30 - 259.20,d,N
+12_2D,12,What is the least value range in the South east region?,31.29 - 259.20,d,N
+12_2D,7,Is the legend discrete or continuous?,Discrete,d,N
+12_2D,23,How many states bordering Myanmar have a value higher than 259.20?,1,d,Y
+13_4D,36,Name the North most state in the range 15.5 - 129.4.,Heilongjiang,d,N
+13_4D,31,Yes or no: a majority of states bordering Beijing belong to range less than 8.60.,Yes,d,Y
+13_4D,1,How many distinct categories does the legend contain?,5,d,N
+13_4D,21,Yes or no: Xinjiang has the least value in region bordering India.,Yes,d,N
+13_4D,7,Is the legend discrete or continuous?,Discrete,d,N
+13_4D,12,What is the least value range in the south-east region?,-31.10 - 2.80,d,N
+13_4D,16,What value range does Yunnan fall in?,15.50 - 129.40,d,N
+13_4D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+13_4D,28,Which state bordering Vietnam has the same value as Hainan?,Guangxi,d,Y
+13_4D,15,List the states in the East China Sea region with the highest values.,Zhejiang,d,N
+14_7D,19,Yes or no: the value of Shandong is higher than Shanghai.,Yes,d,N
+14_7D,1,How many distinct categories does the legend contain?,5,d,N
+14_7D,31,Yes or no: a majority of states bordering India belong to the lowest range.,Yes,d,N
+14_7D,28,Which states in South China sea region has the same value as Shandong?,Guangdong,d,N
+14_7D,3,What is the overall range of the legend?,1043 - 74732.40,d,N
+14_7D,26,Which states bordering India have a value higher than 16780.90?,,d,N
+14_7D,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,No,d,N
+14_7D,42,"Yes/No: Hainan has a lower value than state Shandong, and also have a higher value than state Tibet.",No,d,N
+14_7D,33,Yes or no: Sichuan and Guizhou are a pair of bordering states with the highest difference.,Yes,d,Y
+14_7D,16,What value range does Hainan fall in?,1042.99-10.710.25,d,N
+16_0D,27,Which states bordering North Korea have a value similar to Shanghai?,,d,N
+16_0D,5,Yes or no: the legend has multiple distinct colours.,Yes,d,N
+16_0D,22,Yes or no: States bordering Xinjiang have lower values on average than states bordering Fujian.,Yes,d,Y
+16_0D,9,Does state Hainan fall in the lowest range?,Yes,d,N
+16_0D,21,Yes or no: state Tianjin has the least value in the East China Sea region.,Yes,d,N
+16_0D,33,Yes or no: Shandong and Jiangsu are the pair of bordering states with the highest difference.,No,d,Y
+16_0D,26,Which states bordering Yunnan have a value higher than 1187.5?,Sichuan,d,Y
+16_0D,11,Which states bordering Vietnam belong to the lowest range?,,d,Y
+16_0D,23,How many coastal states have a value higher than 1678.40?,4,d,N
+16_0D,12,What is the highest value range in the south-east region?,1678.40 - 5068.50,d,N
+17_4D,38,Yes or no: the value of Shandong is below the median value amongst states in coastal region.,No,d,N
+17_4D,37,Which state borders only states from range 191.50 - 975.60?,Shanghai,d,N
+17_4D,28,Which state in north east China has the same value as state Hunan?,,d,N
+17_4D,21,Yes or no: Hainan has the least value in the south-east region.,Yes,d,N
+17_4D,4,What value range does the second lightest shade represent?,33.10 - 42.90,d,N
+17_4D,42,"Yes/No: Zhejiang has a higher value than Ningxia, and also have a similar value as Fujian.",Yes,d,N
+17_4D,15,List the state bordering Mongolia with the lowest values.,Gansu,d,N
+17_4D,40,Which pair of states belonging to the range 33.10 - 42.90 are the closest to each other?,Inner Mongolia and Shaanxi,d,N
+17_4D,31,Yes or no: a majority of states in the north east China belong to the highest range.,No,d,N
+17_4D,11,Which states bordering India belong to the lowest range?,Tibet,d,N
+18_4D,33,Yes or no: Beijing and Tianjin are the pair of bordering states with the highest difference.,Yes,d,Y
+18_4D,13,Which state has the highest value in the South China Sea region?,Guangdong,d,N
+18_4D,32,Yes or no: Beijing is an outlier compared to other states in the northeast region.,Yes,d,N
+18_4D,40,Which pair of states belonging to the range 18.20 - 26.10 are the farthest from each other?,Xinjiang and Hainan,d,N
+18_4D,15,List the state bordering Russia with the lowest values.,Heilongjiang,d,N
+18_4D,23,How many states bordering India have a value higher than 141.90?,0,d,N
+18_4D,18,Yes or no: the value of Sichuan is higher than its neighbouring state Qinghai.,Yes,d,Y
+18_4D,5,Yes or no: the legend has multiple distinct colours.,Yes,d,N
+18_4D,3,What is the overall range of the legend?,2.49 - 203.70,d,N
+18_4D,12,What is the highest value range in the North Korea border region?,26.10 - 46.40,d,N
+19_3D,21,Yes or no: state Guangdong has the highest value in the South China sea region.,Yes,d,N
+19_3D,18,Yes or no: the value of Shanghai is higher than its neighbouring state Zhejiang.,No,d,Y
+19_3D,16,What value range does Qinghai fall in?,6.09 - 21.00,d,N
+19_3D,22,Yes or no: States bordering East China sea have higher values on average than states bordering India.,Yes,d,N
+19_3D,40,Which pair of states belonging to the lowest range are the closest to each other?,Tibet and Qinghai; Beijing and Tianjin,d,N
+19_3D,4,What value range does the darkest shade represent?,6.09 - 21.0,d,N
+19_3D,26,Which states bordering Shandong have a value higher than 49.8?,"Henan, Jiangsu, Anhui, Hebei",d,Y
+19_3D,19,Yes or no: the value of Hebei is similar to the state Anhui.,No,d,N
+19_3D,34,Yes or no: Guangdong is the South most state that has a higher value compared to all its neighbours.,Yes,d,Y
+19_3D,42,"Yes/No: Zhejiang has a higher value than Guizhou, and a similar value as Hubei.",Yes,d,N
+20_4D,1,How many distinct categories does the legend contain?,6,d,N
+20_4D,3,What is the overall range of the legend?,122.99 - 47456.00,d,N
+20_4D,9,Does Hainan fall in the lowest range?,Yes,d,N
+20_4D,34,Yes or no: Xinjiang is the West most state that has a similar value compared to all its neighbours.,Yes,d,Y
+20_4D,39,Yes or no: all states in the East China Sea region have values above 8130.00,No,d,N
+20_4D,30,Does Shanghai have the same value as Zhejiang amongst the states in the East China Sea region.,No,d,N
+20_4D,7,Is the legend discrete or continuous?,Discrete,d,N
+20_4D,20,Name the South most state that belongs to a higher value range compared to all its neighbours.,Guangdong,d,Y
+20_4D,16,What value range does Shandong fall in?,17470 - 47456,d,N
+20_4D,6,Yes or no: the map depicts percentages.,No,d,N
+21_1D,17,Count the states with the values in the range 12.50 - 20.10 in the East China Sea region.,2,d,N
+21_1D,33,Yes or no: Xinjiang and Tibet are a pair of bordering states with the highest difference.,Yes,d,Y
+21_1D,39,Yes or no: all states in the North-East region have values in the range 5.70 - 9.60.,No,d,N
+21_1D,41,Are the legends evenly spaced?,No,d,N
+21_1D,34,Yes or no: Xinjiang is the West-most state that has a higher value compared to all its neighbours.,Yes,d,Y
+21_1D,9,Does Gansu fall in the range 5.70 - 9.60?,Yes,d,N
+21_1D,31,Yes or no: a majority of states bordering North Korea belong to range greater than 5.70.,Yes,d,N
+21_1D,6,Yes or no: the map depicts percentages.,No,d,N
+21_1D,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,No,d,N
+21_1D,28,Which state in the South China Sea region has the same value as Tibet?,Hainan,d,N
+22_0D,23,How many states in the East China Sea region have a value lower than 107.74?,0,d,N
+22_0D,40,Which pair of states belonging to the range 234.24 - 288.32 are the closest to each other?,Sichuan and Chongqing,d,N
+22_0D,28,Which state bordering Mongolia has the same value as Fujian?,,d,N
+22_0D,26,Which coastal states have a value higher than 578.29?,"Guangdong, Shandong, Jinagsu, Zhejiang",d,N
+22_0D,37,Which state borders only states from range 5.85 - 107.74?,Xinjiang,d,N
+22_0D,17,Count the states with the values in the highest range in the East China Sea region.,3,d,N
+22_0D,12,What is the highest value range in the region bordering North Korea?,288.32 - 578.29,d,N
+22_0D,33,Yes or no: Tibet and Qinghai are the pair of bordering states with the highest difference.,No,d,Y
+22_0D,4,What value range does the darkest shade represent?,5.84 - 107.74,d,N
+22_0D,42,Yes/No: Jinagxi has a similar value as Guangxi and also Jilin.,Yes,d,N
+22_8D,21,Yes or no: state Tibet has the least value in the Indian border region.,Yes,d,N
+22_8D,17,Count the states with the values in the highest range in the region bordering Bhutan.,0,d,N
+22_8D,27,Which states in the South China Sea region have a value higher than Liaoning?,Guangdong,d,N
+22_8D,33,Yes or no: Qinghai and Sichuan are the pair of bordering states with the highest difference.,Yes,d,Y
+22_8D,15,List the 3 states in the East China Sea region with the highest values.,"Shandong, Jiangsu, Zhejiang",d,N
+22_8D,11,Which states bordering Russia belong to the highest range?,,d,N
+22_8D,18,Yes or no: the value of Guizhou is similar to its neighbouring state Guangxi.,Yes,d,Y
+22_8D,23,How many states in the East China sea region have a value higher than 58.09?,6,d,N
+22_8D,20,Name the South-most state that belongs to a higher value range compared to all its neighbours.,Guangdong,d,Y
+22_8D,3,What is the overall range of the legend?,58.09 - 3454.27,d,N
+23_1D,18,Yes or no: the value of Sichuan is higher than its neighbouring state Yunnan.,Yes,d,Y
+23_1D,16,What value range does Hainan fall in?,44.49 - 261.30,d,N
+23_1D,33,Yes or no: Tibet and Sichuan are the pair of bordering states with the highest difference.,Yes,d,Y
+23_1D,43,"Rank the states Guangxi, Hunan and Guangdong in terms of the legend value in the southeast region.",Guangdong > Hunan > Guangxi,d,N
+23_1D,19,Yes or no: the value of Tibet is similar to Qinghai.,Yes,d,N
+23_1D,1,How many distinct categories does the legend contain?,6,d,N
+23_1D,5,Yes or no: the legend has multiple distinct colours.,Yes,d,N
+23_1D,4,What value range does the lightest shade represent?,759.5 - 2110.9,d,N
+23_1D,9,Does Hainan fall in the range 44.50 - 261.30?,Yes,d,N
+23_1D,12,What is the least value range in the East China Sea region?,44.50 - 261.30,d,N
+23_8D,28,Which state bordering Russia has the same value as Hainan?,Inner Mongolia,d,N
+23_8D,43,"Rank the states Jilin, Liaoning and Tianjin in terms of the legend value in the northeast region.",Tianjin < Jilin < Liaoning,d,N
+23_8D,36,Name the East-most state in the range 419.60 - 597.90.,Heilongjiang,d,N
+23_8D,11,Which states bordereing India belong to range 32.50 - 301.50?,Tibet,d,N
+23_8D,5,Yes or no: the legend has multiple distinct colours.,Yes,d,N
+23_8D,12,What is the highest value range in the East China Sea region?,755.90 - 1973.30,d,N
+23_8D,15,List the coastal states with the lowest values.,"Hainan, Tianjin",d,N
+23_8D,26,Which states in the South China region have a value higher than 755.90?,Guangdong,d,N
+23_8D,33,Yes or no: Henan and Anhui are the pair of bordering states with the highest difference.,Yes,d,Y
+23_8D,6,Yes or no: the map depicts percentages.,No,d,N
+1_3D,43,"Rank the states Jilin, Xinjiang and Zhejiang in terms of the legend value.",Zhejiang > Jilin > Xinjiang,d,N
+1_3D,33,Yes or no: Beijing and Hebei are a pair of bordering states with the highest difference.,Yes,d,Y
+1_3D,16,What value range does Hainan fall in?,12768.50 - 14384.00,d,N
+1_3D,1,How many distinct categories does the legend contain?,5,d,N
+1_3D,18,Yes or no: the value of Inner Mongolia is higher than its neighbouring state Gansu.,Yes,d,N
+1_3D,27,Which states in the East China Sea region have a value similar to Ningxia?,"Shandong, Fujian",d,N
+1_3D,35,How many states in the South China Sea region have a value similar to Beijing?,1,d,N
+1_3D,21,Yes or no: Tibet has the highest value in south east region.,No,d,N
+1_3D,30,Does Inner Mongolia have the same value as Liaoning amongst the states in the northeast region.,Yes,d,N
+1_3D,34,Yes or no: Guangdong is the South-most state that has a higher value compared to all its neighbours.,Yes,d,Y
+3_2D,5,Yes or no: the legend has different shades of the same colour?,Yes,d,N
+3_2D,43,"Rank the states Hainan, Fujian and Inner Mongolia in terms of the legend value.",Hainan < Fujian < Inner Mongolia,d,N
+3_2D,28,Which state in the northeast region has the same value as Hainan?,,d,N
+3_2D,20,Name the East-most state that belongs to a lower value range compared to all its neighbours.,Zhejiang,d,Y
+3_2D,35,How many states in the East China Sea have a value similar to Zhejiang?,0,d,N
+3_2D,23,How many states in the South China Sea have a value lower than 2.50?,2,d,N
+3_2D,7,Is the legend discrete or continuous?,Discrete,d,N
+3_2D,9,Does Fujian fall in range 1.30 - 2.50?,No,d,N
+3_2D,22,Yes or no: States bordering India have higher values on average than states bordering Russia.,No,d,N
+3_2D,36,Name the South-most state in the highest range.,Shanghai,d,N
+6_0D,34,Yes or no: Guangdong is the South-most state that has a lower value compared to all its neighbours.,Yes,d,Y
+6_0D,31,Yes or no: a majority of states bordering Zhejiang belong to range greater than 4.40.,Yes,d,Y
+6_0D,9,Does Inner Mongolia fall in the range 11.90 - 55.20?,Yes,d,N
+6_0D,22,Yes or no: States bordering South China Sea have higher values on average than states bordering India.,Yes,d,N
+6_0D,18,Yes or no: the value of Tibet is similar to its neighbouring state Xinjiang.,Yes,d,Y
+6_0D,21,Yes or no: Inner Mongolia has the highest value in region bordering Russia.,Yes,d,N
+6_0D,41,Are the legends evenly spaced?,No,d,N
+6_0D,1,How many distinct categories does the legend contain?,4,d,N
+6_0D,32,Yes or no: Tianjin is an outlier compared to other states in the northeast region.,Yes,d,N
+6_0D,7,Is the legend discrete or continuous?,Discrete,d,N
+8_7D,9,Does Hainan fall in the highest range?,Yes,d,N
+8_7D,20,Name the East-most state that belongs to a similar value range compared to all its neighbours.,Heilongjiang,d,Y
+8_7D,41,Are the legends evenly spaced?,No,d,N
+8_7D,32,Yes or no: Sichuan is an outlier compared to other states in south central region.,Yes,d,N
+8_7D,31,Yes or no: a majority of states in the north east region belong to range 0.25 - 3.59.,Yes,d,N
+8_7D,42,"Yes/No: Guangxi has a higher value than Sichuan, and also have a similar value as Tibet.",Yes,d,N
+8_7D,30,Does Guangdong have the same value as Hunan amongst the states in the southeast region.,Yes,d,N
+8_7D,15,List the states bordering Zhejiang with the highest values.,Fujian,d,Y
+8_7D,18,Yes or no: the value of Hebei is similar to its neighbouring state Inner Mongolia.,No,d,N
+8_7D,34,Yes or no: Heilongjiang is the East-most state that has a similar value compared to all its neighbours.,Yes,d,Y
+11_8D,23,How many states in the northeast region have a value lower than 457.82?,2,d,N
+11_8D,13,Which coastal state has the highest value?,"Guangdong, Shandong, Jiangsu",d,N
+11_8D,1,How many distinct categories does the legend contain?,7,d,N
+11_8D,15,List the state in the South China region with the highest value.,Guangdong,d,N
+11_8D,41,Are the legends evenly spaced?,No,d,N
+11_8D,16,What value range does Yunnan fall in?,972.54 - 1422.14,d,N
+11_8D,43,"Rank the states Henan, Shanxi and Shaanxi in terms of the legend value.",Henan > Shanxi > Shaanxi,d,N
+11_8D,27,Which states in the north east region have a value similar to Chingqing?,,d,N
+11_8D,35,How many states bordering India have a value similar to Jilin?,1,d,N
+11_8D,34,Yes or no: Guangdong is the South-most state that has a higher value compared to all its neighbours.,Yes,d,Y
+13_0D,6,Yes or no: Tibet has the highest value in south east region.,No,d,N
+13_0D,7,Is the legend discrete or continuous?,Discrete,d,N
+13_0D,41,Are the legends evenly spaced?,No,d,N
+13_0D,17,Count the coastal states with the values in range -12.60 - -4.40.,3,d,N
+13_0D,15,List the 2 states in the northeast region with the lowest values.,"Heilongjiang, Jilin",d,N
+13_0D,26,Which states in the South China region have a value higher than -4.40?,,d,N
+13_0D,32,Yes or no: Gansu is an outlier compared to other states bordering Mongolia.,Yes,d,N
+13_0D,21,Yes or no: Hainan has the highest value in the southeast region.,No,d,N
+13_0D,16,What value range does Gansu fall in?,-4.40 - 4.40,d,N
+13_0D,43,"Rank the states Zhejiang, Fujian and Jiangxi in terms of the legend value.",Jiangxi < Fujian < Zhejiang,d,N
+17_0D,8,Which class has the largest range of values?,267.00 - 958.40,d,N
+17_0D,11,Which states in the South China Sea region belong to the highest range?,"Guangdong, Fujian",d,N
+17_0D,6,Yes or no: the map depicts absolute values.,Yes,d,N
+17_0D,1,How many distinct categories does the legend contain?,7,d,N
+17_0D,26,Which states bordering India have a value lower than 37.10?,Tibet,d,N
+17_0D,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,d,N
+17_0D,20,Name the North most state that belongs to a lower value range compared to all its neighbours.,Heilongjiang,d,Y
+17_0D,22,Yes or no: States bordering Russia have lower values on average than states bordering Vietnam.,Yes,d,N
+17_0D,40,Which pair of states belonging to the second lowest range are the closest to each other?,"Inner Mongolia, Shaanxi",d,N
+17_0D,36,Name the South most state in the highest range.,Guangdong,d,N
+20_8D,3,What is the overall range of the legend?,96.99 - 48708,d,N
+20_8D,9,Does Beijing fall in the lowest range?,Yes,d,N
+20_8D,33,Yes or no: Guangdong and Hunan are a pair of bordering states with the highest difference.,Yes,d,Y
+20_8D,16,What value range does Sichuan fall in?,9469.00 - 16744.00,d,N
+20_8D,11,Which states in the East China Sea region belong to the lowest range?,,d,N
+20_8D,6,Yes or no: the map depicts percentages.,No,d,N
+20_8D,2,Yes or no: in the legend the colour intensity is inversely proportional to the value.,Yes,d,N
+20_8D,39,Yes or no: all states bordering India have values in range 97 - 3686.,Yes,d,N
+20_8D,20,Name the West most state that belongs to a similar value range compared to all its neighbours.,Xinjiang,d,Y
+20_8D,37,Which state in the South China Sea region borders at least 2 states from the second hgihest range?,Guangdong,d,N
+2_0C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+2_0C,18,Yes or no: the value of the state Tibet is higher than its neighbouring state Qinghai.,Yes,c,Y
+2_0C,11,Which states in the South China sea region belong to range <0?,,c,N
+2_0C,22,Yes or no: States bordering North Korea have higher values on average than states of South China sea region.,Yes,c,N
+2_0C,26,Which states in the East China region have a value higher than 150?,,c,N
+2_0C,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,c,N
+2_0C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+2_0C,20,Name the West-most state that belongs to a lower value range compared to all its neighbours.,Qinghai,c,Y
+2_0C,34,Yes or no: Qinghai is the North most state that has a higher value compared to all its neighbours.,No,c,Y
+2_0C,21,Yes or no: Jilin has the highest value in the northeast region.,Yes,c,N
+4_4C,22,Yes or no: States of the southeast region have higher values on average than states bordering Mongolia.,Yes,c,N
+4_4C,21,Yes or no: Tibet has the highest value in the India border region.,Yes,c,N
+4_4C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+4_4C,9,Does Hainan fall in the highest range?,No,c,N
+4_4C,15,List the state bordering India with the highest values.,Tibet,c,N
+4_4C,3,What is the overall range of the legend?,<-40 - 50,c,N
+4_4C,40,Which pair of states belonging to the range -20 - 0 are the closest to each other?,Xinjiang and Gansu,c,N
+4_4C,33,Yes or no: Inner Mongolia and Heilongjiang are the pair of bordering states with the highest difference.,Yes,c,N
+4_4C,19,Yes or no: the value of Tibet is similar to Hainan.,No,c,N
+4_4C,28,Which state in the southeast region has the most different value to Xinjiang?,Hunan,c,N
+7_0C,6,Yes or no: the map depicts percentages.,No,c,N
+7_0C,41,Are the legends evenly spaced?,Yes,c,N
+7_0C,11,Does Hainan fall in the highest range?,No,c,N
+7_0C,5,Yes or no: the legend has different shades of the same colour?,Yes,c,N
+7_0C,23,How many states bordering India have a value lower than 0?,1,c,N
+7_0C,32,Yes or no: Jiangsu is an outlier compared to other states in the East China Sea region.,Yes,c,N
+7_0C,40,Which pair of states belonging to the lowest range are the closest to each other?,"Tibet, Qinghai",c,N
+7_0C,35,How many states bordering Russia have a value similar to Tibet?,0,c,N
+7_0C,15,List the states bordering Inner Mongolia with the highest values.,Liaoning,c,N
+7_0C,37,Which state in north east region does not border any states from range 40-50?,Heilongjiang,c,N
+9_7C,21,Yes or no: Guangdong has the least value in the South China Sea region.,Yes,c,N
+9_7C,27,Which states in the East China Sea region have a value similar to Xinjiang?,,c,N
+9_7C,33,Yes or no: Inner Mongolia and Liaoning are the pair of bordering states with the highest difference.,No,c,N
+9_7C,6,Yes or no: the map depicts absolute values.,Yes,c,N
+9_7C,7,Is the legend continuous or discrete?,Continuous,c,N
+9_7C,3,What is the overall range of the legend?,<7 - >16,c,N
+9_7C,28,Which state bordering Guangxi has the same value as Zhejiang?,Guangdong,c,Y
+9_7C,23,How many states bordering Mongolia have a value lower than 12?,2,c,N
+9_7C,5,Yes or no: the legend has multiple distinct colours?,No,c,N
+9_7C,30,Does Jilin have the same value as Liaoning amongst the states in the northeast region.,No,c,N
+18_5C,26,Which states bordering Russia have a value higher than 120?,,c,N
+18_5C,40,Which pair of states in the region bordering East China Sea belonging to the range 120 - 140 are the closest to each other?,"Jiangsu, Zhejiang",c,N
+18_5C,15,List the 2 coastal states with the highest values.,"Guangdond, Shanghai",c,N
+18_5C,11,Which states in the East China Sea region belong to range 60-80?,,c,N
+18_5C,30,Does Tibet have the same value as Xinjiang amongst the states bordering India.,No,c,N
+18_5C,39,Yes or no: all states in the northeast region have values in range 20-40.,Yes,c,N
+18_5C,12,What is the highest value range in the southeast region?,>140,c,N
+18_5C,3,What is the overall range of the legend?,<20 - >140,c,N
+18_5C,21,Yes or no: Guangdong has the highest value in the south east region.,Yes,c,N
+18_5C,7,Is the legend discrete or continuous?,Continuous,c,N
+16_5C,9,Does the value of Guangdong fall in range >2500?,Yes,c,N
+16_5C,13,Which state has the highest value in the southeast region?,Guangdong,c,N
+16_5C,30,List the 2 coastal states with the highest values.,"Guangdong, Jiangsu",c,N
+16_5C,11,Which states bordering Russia belong to the range >2500?,,c,N
+16_5C,31,Yes or no: a majority of states bordering Guangdong belong to the range less than 1000.,Yes,c,Y
+16_5C,9,Does Jiangsu fall in the range <500?,No,c,N
+16_5C,33,Yes or no: Guangdou and Guangxi are the pair of bordering states with the highest difference.,Yes,c,Y
+16_5C,7,Is the legend discrete or continuous?,Continuous,c,N
+16_5C,21,Yes or no: Hainan has the least value in the South China Sea region.,Yes,c,N
+16_5C,39,Yes or no: all states in the South China Sea region have values below 500.,No,c,N
+21_0C,27,Which states in the northeast region have a value similar to Gaungxi?,"Heilongjiang, Liaoning",c,N
+21_0C,42,"Yes/No: Tibet has a lower value than Inner Mongolia, and also have a higher value than Xinjiang.",No,c,N
+21_0C,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,c,N
+21_0C,20,Name the North most state that belongs to a higher value range compared to all its neighbours.,Inner Mongolia,c,Y
+21_0C,15,List the state bordering Russia with the second highest range values.,,c,N
+21_0C,11,Which states in the South China sea belong to the highest range?,,c,N
+21_0C,40,Which pair of states belonging to the range -20 - -10 are the closest to each other?,"Tibet, Qinghai",c,N
+21_0C,43,"Rank the states Guangdong, Tibet and Qinghai in terms of the legend value.",Guangdong > Qinghai > Tibet,c,N
+21_0C,41,Are the legends evenly spaced?,Yes,c,N
+21_0C,32,Yes or no: Tibet is an outlier compared to other states in western region.,Yes,c,N
+23_8C,7,Is the legend discrete or continuous?,Continuous,c,N
+23_8C,20,Name the South most state that belongs to a higher value range compared to all its neighbours.,Guangdong,c,Y
+23_8C,31,Yes or no: a majority of states bordering Russia belong to range less than 500.,Yes,c,N
+23_8C,33,Yes or no: Tibet and Xinjiang are the pair of bordering states with the highest difference.,No,c,Y
+23_8C,32,Yes or no: Inner Mongolia is an outlier compared to other states in the south east region.,No,c,N
+23_8C,17,Count the states with the values in the range >1500 in the north east region.,0,c,N
+23_8C,11,Which states bordering India belong to range <250?,Tibet and Xinjiang,c,Y
+23_8C,12,What is the highest value range in the East China Sea region?,1500 - 1750,c,N
+23_8C,3,What is the overall range of the legend?,<0 - >1500,c,N
+23_8C,18,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,c,N
+6_0C,6,Yes or no: the map depicts percentages.,No,c,N
+6_0C,41,Are the legends evenly spaced?,Yes,c,N
+6_0C,3,What is the overall range of the legend?,<-10 - >50,c,N
+6_0C,7,Is the legend discrete or continuous?,Continuous,c,N
+6_0C,40,Which pair of states belonging to the lowest range are the closest to each other?,"Tibet, Qinghai",c,N
+6_0C,35,How many states bordering Russia have a value similar to Tibet?,0,c,Y
+6_0C,30,Does Qinghai have the same value as Jilin?,No,c,N
+6_0C,4,What value range does the darkest shade represent?,>50,c,N
+6_0C,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,c,N
+6_0C,5,Yes or no: the legend has different shades of the same colour?,No,c,N
+13_4C,23,How many states bordering Russia have a value higher than 100?,0,c,Y
+13_4C,11,Which state bordering North Korea belong to range 100 - 120?,,c,Y
+13_4C,19,Yes or no: the value of Guangdong is higher than Jilin.,No,c,N
+13_4C,3,What is the overall range of the legend?,-40 - >120,c,N
+13_4C,35,How many states bordering India have a value lower than Fujian?,1,c,Y
+13_4C,36,Name the South most state with values in range >120.,Tibet,c,N
+13_4C,30,Does Jilin have the same value as Beijing amongst the states in the north east region.,No,c,N
+13_4C,5,Yes or no: the legend has different shades of the same colour.,Yes,c,N
+13_4C,28,Which state bordering South China Sea has the closest value to Xinjiang?,Hainan,c,Y
+13_4C,34,Yes or no: Heilongjiang is the North most state that has a higher value compared to all its neighbours.,No,c,Y
+2_0D,5,Yes or no: the legend has different shades of the same colour?,Yes,d,N
+2_0D,30,Does Hunan have the same value as Guangxi amongst the states in northeast region.,No,d,N
+2_0D,22,Yes or no: Coastal states have higher values on average than inland states.,Yes,d,N
+2_0D,6,Yes or no: the map depicts percentages.,No,d,N
+2_0D,36,Name the South-most state in the lowest range.,Hainan,d,N
+2_0D,12,What is the least value range in the north-east region?,-6.10 - 10.90,d,N
+2_0D,34,Yes or no: Ningxia is the North most state that has a higher value compared to all its neighbours.,No,d,Y
+2_0D,16,What value range does Yunnan fall in?,48.50 - 52.30,d,N
+2_0D,39,Yes or no: all states in the south east region have values above 48.50.,No,d,N
+2_0D,16,What value range does Hainan fall in?,-6.10 - 10.90,d,N
+18_0D,32,Yes or no: Heilongjiang is an outlier compared to other states in the northeast region.,Yes,d,N
+18_0D,4,What value range does the darkest shade represent?,7.19 - 26.1,d,N
+18_0D,41,Are the legends evenly spaced?,No,d,N
+18_0D,12,What is the highest value range in the north-east region?,151.60 - 525,d,N
+18_0D,37,Which state in the lowest range borders at least 2 states from range 26.10 - 48.30?,"Tibet, Gansu",d,N
+18_0D,43,"Rank the states Tibet, Xinjiang and Guangdong in terms of the legend value.",Tibet < Xinjiang < Guangdong,d,N
+18_0D,5,Yes or no: the legend has multiple distinct colours?,No,d,N
+18_0D,1,How many distinct categories does the legend contain?,6,d,N
+18_0D,21,Yes or no: Xinjiang has the least value in region bordering India.,Yes,d,N
+18_0D,7,Is the legend discrete or continuous?,Discrete,d,N
+23_4D,42,"Yes/No: Qinghai has a lower value than Gansu, and also has a higher value than Sichuan",No,,N
+23_4D,2,Yes or no: in the legend the colour darkness is inversely proportional to the value.,Yes,,N
+23_4D,12,What is the lowest value range in the north-east region?,301.5 - 419.6,,N
+23_4D,29,Which range has the highest number of states?,32.49 - 301.5,,N
+23_4D,20,Name the east-most state that belongs to a lower value range compared to all its neighbours.,Tianjin,,Y
+23_4D,33,Yes or no: Tibet and Xinjiang are the pair of bordering states with the highest difference.,No,,Y
+23_4D,21,Yes or no: Hainan has the highest value in the region bordering South China Sea,No,,Y
+23_4D,19,Yes or no: the value of the Yunnan is lower than Sichuan,Yes,,N
+23_4D,17,Count the states with the values in range 36.89 - 272.4 along Mongolia border,2,,N
+23_4D,1,How many distinct categories does the legend contain?,6,,N
+22_6D,3,What is the overall range of the legend?,2.93 - 2142.7,,N
+22_6D,24,Yes or no: the median state range in the region along Mongolia's boder is 2.93 - 178.72,No,,N
+22_6D,27,Which states in the region bordering Vietnam have a value lower than state Guangxi?,Yunnan,,Y
+22_6D,13,Which state has the highest value in the region around the capital?,Heibei,,N
+22_6D,25,What is the median range of the states in the region bordering Tibet?,351.74 - 518.81,,Y
+22_6D,23,How many states in region bordering Xinjiang have a value higher than 518.81?,0,,Y
+22_6D,41,Are the legends evenly spaced?,No,,N
+22_6D,39,Yes or no: all states in region bordering Laos have values above 811.4?,No,,Y
+22_6D,43,"Rank the states Sichuan, Yunnan and Guizhou in terms of the legend value in the region Southwest China.",Guizhou < Yunnan < Sichuan,,N
+22_6D,5,Yes or no: the legend has multiple distinct colours?,Yes,,N
+21_2D,35,How many states in the region bordering Tibet have a value lower than state Xinjiang?,2,,Y
+21_2D,26,Which states in region surrounding the capital have a value higher than 7.55?,0,,N
+21_2D,30,Does state Qinghai have the most different value to state Sichuan amongst the states in the western region?,Yes,,N
+21_2D,18,Yes or no: the value of the state Xinjiang is higher than its neighbouring state Gansu.,No,,Y
+21_2D,37,Which state in region Northwest China borders at least 3 states from range 7.55 - 20.5?,Qinghai,,N
+21_2D,22,Yes or no: States of region Southwest China have lower values on average than states of region Northwest China.,Yes,,N
+21_2D,38,Yes or no: the value of state Tibet is below the median value amongst states in the region bordering Tibet.,Yes,,Y
+21_2D,6,Yes or no: the map depicts percentages.,No,,N
+21_2D,28,Which state in region East China has the same value to state Shandong?,Jiangsu,,N
+21_2D,9,Does state Hunan fall in range 5.2 - 7.55?,No,,N
+20_0D,32,Yes or no: Xinjiang is an outlier compared to other states in Northwest China.,Yes,,N
+20_0D,34,Yes or no: Hainan is the South-most state that has a higher value compared to all its neighbours.,No,,Y
+20_0D,15,List the 3 states in Northwest China with the lowest values.,"Qinghai, Gansu, Ningxia",,N
+20_0D,11,Which states in Northeast China belongs to range 5812.0 - 9432.0?,Liaoning,,N
+20_0D,8,Which class has the largest range of values?,20691.0 - 70702.0,,N
+20_0D,40,Which pair of states belonging to the range N/A are the closest to each other?,,,N
+20_0D,4,What value range does the darkest shade represent?,189.99 - 3216.0,,N
+20_0D,36,Name the East-most state in the range 5812.0 - 9432.0.,Shanghai,,N
+20_0D,16,What value range does Guangxi fall in?,5812.0 - 9432.0,,N
+20_0D,31,Yes or no: a majority of states in Southwest China belong to values more than 9432.0.,No,,N
+20_0D,7,Is the legend discrete or continuous?,Discrete,,N
+9_0C,21,Yes or no: Tibet has the highest value in the region bordering India.,Yes,,N
+9_0C,24,Yes or no: the median state value in the region bordering Vietnam lies between 4 and 6.,No,,Y
+9_0C,18,Yes or no: the value of Sichuan is higher than its neighbouring state Guizhou.,No,,Y
+9_0C,42,"Yes/No: Xinjiang has a higher value than Tibet, and also has a higher value than Inner Mongolia",No,,N
+9_0C,22,Yes or no: States of region North-east China have higher values on average than states of region South-east China.,No,,N
+9_0C,27,Which states in the region including the bordering countries Vietnam have a higher value than Hainan?,,,Y
+9_0C,38,Yes or no: the value of Jiangxi is above the median value amongst states in the region including the bordering countries of Mongolia?,Yes,,N
+9_0C,16,Between which two legend markings does the state Tibet fall in?,12 - 14,,N
+9_0C,7,Is the legend continuous or discrete?,Continuous,,N
+9_0C,23,How many states in region East China have a value higher than 14?,0,,N
+12_2C,43,"Rank the states Sichuan, Yunnan, Guizhou in terms of the legend value in region Southwest China.",Guizhou < Yunnan < Sichuan,,N
+12_2C,36,Name the eastmost state with values in range 1000 - 1500.,Shandong,,N
+12_2C,30,Does Xinjiang have the same value to Tibet amongst the states in the region bordering Xinjiang?,No,,Y
+12_2C,6,Yes or no: the map depicts percentages.,No,,N
+12_2C,3,What is the overall range of the legend?,<0 - >1500,,N
+12_2C,13,Which state has the highest value in the region South China?,Guangdong,,N
+12_2C,17,Count the states with the values in range 1000 - 1500 in the region bordering Mongolia.,0,,N
+12_2C,20,Name the west state that has a higher value compared to all its neighbours.,Xinjiang,,Y
+12_2C,5,Yes or no: the legend has multiple distinct colours?,No,,N
+12_2C,32,Yes or no: Fujian is an outlier compared to other states bordering the South China Sea,No,,Y
+21_1C,28,Which state in the region including the bordering countries of Mongolia have the closest value to Shanxi?,Xinjiang,,N
+21_1C,40,Which pair of states belonging to the range -10 - -5 are the closest to each other?,"Guizhou, Shanxi",,N
+21_1C,35,How many states in the region bordering Laos have a higher value than Guangxi?,0,,Y
+21_1C,15,List the 1 state in the region East China with the highest value.,Anhui,,N
+21_1C,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,,N
+21_1C,34,Yes or no: Shanxi is the east state that has a higher value compared to all its neighbours?,No,,Y
+21_1C,19,Yes or no: the value of the Hubei is higher than that of Yunnan.,Yes,,N
+21_1C,39,Yes or no: all states in East China have values above -5.,Yes,,N
+21_1C,31,Yes or no: a majority of states in the region bordering Xinjiang have values less than -10?,No,,Y
+21_1C,33,Yes or no: Sichuan and Yunnan are the pair of bordering states with the highest difference?,No,,Y
+20_0C,10,Is the value of Guangdong closer to 70k or 10k?,70k,,N
+20_0C,9,Does the value of Xinjiang fall in range 30k - 40k?,No,,N
+20_0C,26,Which states in region bordering Inner Mongolia have a value higher than 50k?,,,N
+20_0C,11,Which states in the region South China belong to range 30k - 40k?,Fujian,,N
+20_0C,27,Which states in region North China have a value lower than state Hebei?,"Inner Mongolia, Shanxi, Beijing, Tianjin",,N
+20_0C,42,"Yes/No: Hubei has a higher value than Jiangsu, and also have a higher value than Anhui",No,,N
+20_0C,16,Between which two legend markings does state Guangxi fall in?,10k - 20k,,N
+20_0C,23,How many states in region Northeast China have a value lower than 0?,0,,N
+20_0C,15,List the 2 states in the region East China with the highest values.,"Jiangsu, Zhejiang",,N
+20_0C,3,What is the overall range of the legend?,<0 - 70k,,N
+19_4D,30,Does Xinjiang have the same value as Tibet?,No,,N
+19_4D,28,Which states in the region bordering Vietnam have the same value to Guangxi?,Yunnan,,Y
+19_4D,27,Which states in the region bordering Mongolia have a value lower than Inner Mongolia?,"Xinjiang, Gansu",,N
+19_4D,41,Are the legends evenly spaced?,No,,N
+19_4D,5,Yes or no: the legend has different shades of the same colour?,No,,N
+19_4D,16,What value range does Sichuan fall in?,50.9 - 71.2,,N
+19_4D,19,Yes or no: the value of the Yunnan is higher than Guizhou.,Yes,,N
+19_4D,6,Yes or no: the map depicts percentages.,No,,N
+19_4D,13,Which state has the highest value in the region bordering India?,,,N
+19_4D,25,What is the median range of the states in the region bordering Laos?,36.1 - 45.3,,Y
+18_2D,7,Is the legend discrete or continuous?,Discrete,,N
+18_2D,24,Yes or no: the median state range in the region bordering Vietnam is 23.7 - 36.0,No,,Y
+18_2D,15,List the state in the region bordering Myanmar with the highest value.,Yunnan,,Y
+18_2D,31,Yes or no: a majority of states in the region bordering Mongolia have values more than 66.1.,No,,N
+18_2D,33,Yes or no: Xinjiang and Tibet are the pair of bordering states with the highest difference.,No,,Y
+18_2D,34,Yes or no: Hainan is the Southmost state that has a higher value compared to all its neighbours.,Yes,,Y
+18_2D,32,Yes or no: state Tibet is an outlier compared to other states in the same region,No,,N
+18_2D,35,How many states in the region bordering South Korea have a value lower than state Beijing?,0,,Y
+18_2D,26,Which states in the region bordering North Korea have a value higher than 36.0?,Liaoning,,N
+18_2D,12,What is the highest value range in the region bordering Russia?,23.7 - 36.0,,N
+17_2D,11,Which states in the region bordering Vietnam belong to range 53.3 - 71.6?,Guangxi,,Y
+17_2D,22,Yes or no: States of the region bordering Mongolia have lower values on average than states of the region bordering Myanmar.,Yes,,N
+17_2D,9,Does Xinjiang fall in range 6.09 - 35.7?,No,,N
+17_2D,20,Name the westmost state that belongs to the higher category compared to all its neighbours.,Xinjiang,,Y
+17_2D,23,How many states in the region bordering Russia have a value lower than 53.3?,2,,N
+17_2D,42,"Yes/No: Sichuan has a higher value than Yunnan, and also has a higher value than Guizhou",No,,N
+17_2D,4,What value range does the second lightest shade represent?,166.9 - 232.6,,N
+17_2D,18,Yes or no: the value of Guangxi is lower to its neighbouring state Guangdong.,Yes,,Y
+17_2D,3,What is the overall range of the legend?,6.09 - 1027.6,,N
+17_2D,17,Count the states with the values in range 232.6 - 1027.6 in the region bordering the South China Sea.,2,,Y
+16_3D,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,,N
+16_3D,36,Name the westmost state in the range 1194.2 - 3637.8,Sichuan,,N
+16_3D,21,Yes or no: Tibet has the highest value in the region of the Himalayas.,No,,N
+16_3D,40,Which pair of states belonging to the range 981.7 - 1194.2 are the closest to each other?,"Henan, Anhui",,N
+16_3D,8,Which class has the largest range of values?,1194.2 - 3637.8,,N
+16_3D,1,How many distinct categories does the legend contain?,6,,N
+16_3D,39,Yes or no: all states neighboring Xinjiang have values above 362.5.,No,,N
+16_3D,37,Which state bordering Tibet borders at least 3 states from range 362.5 - 615.2?,Sichuan,,Y
+16_3D,43,"Rank the states Tibet, Xinjiang and Sichuan in terms of the legend value.",Tibet = Xinjiang < Sichuan,,N
+16_3D,29,Which range has the most number of states?,81.69 - 362.5,,N
+19_0C,30,Does Tibet have the same value to state Xinjiang amongst the states in region Western China.,No,,N
+19_0C,6,Yes or no: the map depicts percentages.,No,,N
+19_0C,38,Yes or no: the value of state Tibet is above the median value amongst states in region Western China.,No,,N
+19_0C,2,Yes or no: in the legend the colour intensity is directly proportional to the value.,Yes,,N
+19_0C,34,Yes or no: Inner Mongolia is the northmost state that has a higher value compared to all its neighbours.,No,,N
+19_0C,7,Is the legend continuous or discrete?,Continuous,,N
+19_0C,5,Yes or no: the legend has multiple distinct colours?,No,,N
+19_0C,31,Yes or no: a majority of states in region Western China have values less than 250,Yes,,N
+19_0C,27,Which states in region Western China have a value similar to Tibet?,Qinghai,,N
+19_0C,23,How many states in region eastern China have a value lower than 50?,0,,N
+18_3C,36,Name the South-most state with values in range >250,Guangdong,,N
+18_3C,28,Which state in region bordering Tibet have the closest value to state Sichuan?,Yunnan,,Y
+18_3C,18,Yes or no: the value of Guangdong is lower to its neighbouring state Fujian.,No,,Y
+18_3C,35,How many states in region bordering Mongolia have a value higher than state Shandong?,0,,N
+18_3C,10,Is the value of state Beijing closer to 50 or 200?,200,,N
+18_3C,19,Yes or no: the value of Jiangsu is higher than Hunan.,Yes,,N
+18_3C,11,Which states in the region South China belong to range 200 - 250?,,,N
+18_3C,43,"Rank the states Xinjiang, Gansu and Qinghai in terms of the legend value in region Northwest China.",Qinghai < Gansu < Xinjiang,,N
+18_3C,3,What is the overall range of the legend?,<0 - >250,,N
+18_3C,13,Which state has the lowest value in the region Northeast China?,Heilongjiang,,N
+17_2C,16,Between which two legend markings does Xinjiang fall in?,0 - 200,,N
+17_2C,15,List the state in the region bordering Mongolia with the highest value.,Inner Mongolia,,N
+17_2C,39,Yes or no: all states in region bordering Vietnam have values above 600.,No,,Y
+17_2C,9,Does the value of Guangdong fall in range 200-400?,No,,N
+17_2C,32,Yes or no: Tibet is an outlier compared to other states bordering Tibet.,No,,Y
+17_2C,21,Yes or no: Shandong has the highest value in the region East of the Yellow Sea.,No,,N
+17_2C,26,Which states in the region bordering North Korea have a value lower than 0?,Heilongjiang,,N
+17_2C,42,"Yes/No: Hunan has a higher value than state Heinan, and also have a higher value than state Hubei",No,,N
+17_2C,24,Yes or no: the median state value in region bordering Laos lies between 800 and 1000.,No,,Y
+17_2C,17,Count the states with the values in range 400-600 in the region bordering Laos.,0,,Y
+16_3C,33,Yes or no: Xinjiang and Tibet are the pair of bordering states with the highest difference.,No,,Y
+16_3C,40,Which pair of states belonging to the range of states bordering Vietnam are the closest to each other?,"Yunnan, Guangxi",,Y
+16_3C,20,Name the East-most state that has a higher value compared to all its neighbours.,Jiangsu,,Y
+16_3C,22,Yes or no: States of the region bordering Mongolia have higher values on average than states of the region bordering Vietnam.,No,,N
+16_3C,26,Which states in the region bordering Laos have a value lower than 2500?,Yunnan,,Y
+16_3C,11,Which states in the region of South China belong to the range 3000 - 3500?,Guangdong,,N
+16_3C,32,Yes or no: state Xinjiang is an outlier compared to other states in the region of Northwest China.,No,,N
+16_3C,17,Count the states with values between 0 to 500 in the region of East China.,0,,N
+16_3C,35,How many states in the region of Northeast China have value lower than the state of Guangdong?,3,,N
+1_2D,32,Yes or no: Xinjiang is an outlier compared to other states in the region of Northwest China.,No,,N
+1_2D,15,List the 3 states in the region of Northwest China with the highest values.,"Ningxia, Shaanxi, Qinghai",,N
+1_2D,22,Yes or no: States of region of Northwest China have higher values on average than states of region of Southwest China.,Yes,,N
+1_2D,5,Yes or no: the legend has multiple distinct colours?,Yes,,N
+1_2D,41,Are there significant gaps between certain ranges?,Yes,,N
+1_2D,13,Which state has the highest value in the region of Northwest China?,Ningxia,,N
+1_2D,40,Which pair of states belonging to the range 16289.0 - 20831.0 are the closest to each other?,"Chongqing, Hubei",,N
+1_2D,36,Name the East-most state in the range 14152.5 - 16289.0,Jilin,,N
+1_2D,9,Does state Xinjiang fall in range 20831.5 - 45816.0?,No,,N
+2_4D,30,Does Xinjiang have the same value to Tibet?,No,,N
+2_4D,8,Which class has the largest range of values?,17.0 - 51.9,,N
+2_4D,11,Which states in region Northwest China belong to range 17.0 - 51.9?,Qinghai,,N
+2_4D,28,Which states in region Western China have the same value to Xinjiang?,Gansu,,N
+2_4D,23,How many states in region Northwest China have a value in range 7.2 - 17.0?,0,,N
+2_4D,17,Count the states with the values in range 17.0 - 51.9 in the region South China.,1,,N
+2_4D,39,Yes or no: all states in region Southern China have values above 17.0,No,,N
+2_4D,26,Which states in region Northwest China have a value lower than -18.3?,Ningxia,,N
+2_4D,6,Yes or no: the map depicts absolute values.,No,,N
+2_4D,33,Yes or no: Tibet and Xinjiang are the pair of bordering states with the highest difference.,No,,Y
+3_3D,20,Name the northmost state that belongs to the highest category compared to all its neighbours.,Sichuan,,Y
+3_3D,6,Yes or no: the map depicts absolute values.,Yes,,N
+3_3D,31,Yes or no: a majority of states in the region around the capital belong to values greater than 3.5,No,,N
+3_3D,16,What value range does Xinjiang fall in?,1.39 - 2.6,,N
+3_3D,4,What value range does the darkest shade represent?,1.39 - 2.6,,N
+3_3D,42,"Yes/No: Sichuan has a higher value than Guizhou, and also have a higher value than Yunnan",Yes,,N
+3_3D,21,Yes or no: Guangxi has the lowest value in the region bordering South China Sea.,Yes,,Y
+3_3D,12,What is the highest value range in the region around the capital?,3.4 - 3.5,,N
+3_3D,37,Which state in the region borderring Mongolia borders at least 2 states from range 3.5 - 4.0?,Inner Mongolia,,N
+3_3D,24,Yes or no: the median state range in the region around the capital is 3.4 - 3.5.,No,,N
+5_0D,27,Which states in the region bordering Vietnam have a value higher than state Guangxi?,Yunnan,,Y
+5_0D,2,Yes or no: in the legend the colour darkness is inversely proportional to the value.,Yes,,N
+5_0D,35,How many states in region bordering Xinjiang have a value lower than state Xinjiang?,0,,Y
+5_0D,1,How many distinct categories does the legend contain?,5,,N
+5_0D,34,Yes or no: Hainan is the South-most state that has a higher value compared to all its neighbours.,No,,Y
+5_0D,3,What is the overall range of the legend?,4.96 - 9.09,,N
+5_0D,19,Yes or no: the value of the Tibet is higher than Sichuan.,No,,N
+5_0D,7,Is the legend discrete or continuous?,Discrete,,N
+5_0D,38,Yes or no: the value of Yunnan is above the median value amongst states in region bordering Myanmar.,Yes,,Y
+5_0D,29,Which range has the fewest number of states?,4.96 - 6.34,,N
+2_1C,22,Yes or no: States of the region bordering Xinjiang have higher values on average than states of the region bordering Tibet.,Yes,,Y
+2_1C,40,Which pair of states belonging to the range 40 - 50 are the closest to each other?,"Ningxia, Shanxi",,N
+2_1C,20,Name the East-most state that has a higher value compared to all its neighbours.,Heilongjiang,,Y
+2_1C,38,Yes or no: the value of state Jiangsu is above the median value amongst states in region East China.,Yes,,N
+2_1C,36,Name the North-most state with values in range 30 - 40.,Heilongjiang,,N
+2_1C,18,Yes or no: the value of the state Zhejiang is higher to its neighbouring state Anhui.,No,,Y
+2_1C,34,Yes or no: Guangxi is the South-most state that has a higher value compared to all its neighbours.,No,,Y
+2_1C,35,How many states in region South China have a value higher than state Guangdong?,0,,N
+2_1C,6,Yes or no: the map depicts percentages.,No,,N
+2_1C,27,Which states in region East China have a value lower than state Jiangxi?,"Zhejiang, Shandong",,N
+3_0C,30,Does Xinjiang have the same value to state Tibet?,No,,N
+3_0C,42,"Yes/No: Sichuan has a higher value than Tibet, and also has a similar value to Qinghai",No,,N
+3_0C,26,Which states in the region bordering Mongolia have a value lower than 4.5?,"Inner Mongolia, Gansu, Xinjiang",,N
+3_0C,2,Yes or no: in the legend the colour darkness is inversely proportional to the value.,No,,N
+3_0C,19,Yes or no: the value of the state Guangdong is similar to state Guangxi.,Yes,,N
+3_0C,10,Is the value of state Sichuan closer to Shanxi or Gansu?,Shanxi,,N
+3_0C,33,Yes or no: Heilongjiang and Jilin are the pair of bordering states with the highest difference.,No,,Y
+3_0C,15,List the 2 states in the region bordering North Korea with the highest values.,"Liaoning, Jilin",,N
+3_0C,32,Yes or no: Hainan is an outlier compared to other states in the region bordering South China Sea.,No,,Y
+3_0C,31,Yes or no: a majority of states in the region bordering Laos have values greater than 2.,Yes,,Y
+4_3C,9,Does the value of state Tibet fall in range -30 - -20?,No,,N
+4_3C,5,Yes or no: the legend has multiple distinct colours?,No,,N
+4_3C,24,Yes or no: the median state value in region bordering Tibet lies between -10 and 10.,Yes,,Y
+4_3C,17,Count the states with the values in range -40 - -30 in the region bordering Xinjiang.,0,,Y
+4_3C,23,How many states in region bordering Tibet have a value lower than -20?,0,,Y
+4_3C,16,Between which two legend markings does state Xinjiang fall in?,-10 - 0,,N
+4_3C,21,Yes or no: state Xinjiang has the highest value in the northwest region.,No,,N
+4_3C,11,Which states in the region bordering Mongolia belong to range >20?,Gansu,,N
+4_3C,7,Is the legend continuous or discrete?,Continuous,,N
+4_3C,39,Yes or no: all states in region bordering South China Sea have values above -10.,Yes,,Y
+5_4C,13,Which state has the highest value in the region bordering Vietnam?,Yunnan,,Y
+5_4C,43,"Rank the states Heilongjiang, Jilin and Liaoning in terms of the legend value in the northeast region.",Jilin < Heilongjiang < Liaoning,,N
+5_4C,3,What is the overall range of the legend?,4.5 - >7,,N
+5_4C,28,Which state in the region bordering Laos have the closest value to Sichuan?,Yunnan,,Y
+5_4C,20,Name the East-most state that has a higher value compared to all its neighbours.,Heilongjiang,,Y
+5_4C,28,Which state in the region bordering North Korea have the furthest value to Sichuan?,Jilin,,N
+5_4C,18,Yes or no: the value of the state Guangdong is higher to its neighbouring state Guangxi.,No,,Y
+5_4C,7,Is the legend continuous or discrete?,Continuous,,N
+5_4C,24,Yes or no: the median state value in the region bordering Myanmar lies between 20 and 30.,No,,Y
+5_4C,33,Yes or no: Qinghai and Tibet are the pair of bordering states with the highest difference.,No,,Y
+6_2D,42,"Yes/No: Xinjiang has a higher value than Tibet, and also has a higher value than Qinghai",Yes,,N
+6_2D,6,Yes or no: the map depicts percentages.,No,,N
+6_2D,2,Yes or no: in the legend the colour darkness is directly proportional to the value.,Yes,,N
+6_2D,27,Which states in the region bordering Vietnam have a value higher than Guangdong?,,,Y
+6_2D,33,Yes or no: Guangdong and Guangxi are the pair of bordering states with the highest difference.,No,,Y
+6_2D,30,Does Yunnan have the most different value to Guangxi amongst the states in the region bordering Vietnam.,No,,Y
+6_2D,12,What is the highest value range in the region bordering North Korea?,4.6 - 26.7,,N
+6_2D,32,Yes or no: Hainan is an outlier compared to other states in the region bordering South China Sea.,No,,Y
+6_2D,5,Yes or no: the legend has multiple distinct colours?,Yes,,N
+6_2D,37,Which state in the region bordering Mongolia borders at least 2 states from range -22.81 - -1.4?,Inner Mongolia,,N
+8_0D,38,Yes or no: the value of state Xinjiang is below the median value amongst states in the region bordering Tibet.,No,,Y
+8_0D,28,Which states in the region of the Tibetan Plateau have the same value to Yunnan?,Gansu,,N
+8_0D,22,Yes or no: States of region South China have higher values on average than states of region North China.,Yes,,N
+8_0D,8,Which class has the largest range of values?,0.66 - 8.76,,N
+8_0D,40,Which pair of states belonging to the range N/A are the closest to each other?,,,N
+8_0D,13,Which state has the highest value in the region of North China?,-0.28 - 0.66,,N
+8_0D,20,Name the northmost state that belongs a higher value range compared to all its neighbours.,Beijing,,Y
+8_0D,17,Count the states with the values in range -5.76 - -1.91 in the region South China.,0,,N
+8_0D,41,Are the legends evenly spaced?,No,,N
+8_0D,3,What is the overall range of the legend?,-5.76 - 8.76,,N
+8_0D,7,Is the legend discrete or continuous?,Discrete,,N
+11_5D,18,Yes or no: the value of the Xinjiang is higher than its neighbouring state Tibet.,Yes,,Y
+11_5D,9,Does state Tibet fall in range 10.35 - 307.49?,Yes,,N
+11_5D,35,How many states in region Eastern China have a value lower than state Guangdong?,2,,N
+11_5D,43,"Rank the states Sichuan, Yunnan and Guizhou in terms of the legend value in region Southwestern China.",Guizhou < Yunnan < Sichuan,,N
+11_5D,15,List the state in the region Southern China with the highest values.,Guangdong,,N
+11_5D,23,How many states in region Northern China have a value higher than 1222.33?,1,,N
+11_5D,24,Yes or no: the median state range in region bordering Mongolia is 307.49 - 670.77.,No,,N
+11_5D,34,Yes or no: Xinjiang is the West-most state that has a higher value compared to all its neighbours.,Yes,,Y
+11_5D,31,Yes or no: a majority of states in region Northeastern China belong to range 1222.33 - 2232.68.,No,,N
+11_5D,39,Yes or no: all states in region Southern China have values above 307.49.,Yes,,N
+14_0D,26,Which states in the region bordering Inner Mongolia have a value lower than 17087.45?,4,,N
+14_0D,11,Which states in region bordering Xinjiang belong to range 17087.45 - 28826.1?,0,,Y
+14_0D,1,How many distinct categories does the legend contain?,5,,N
+14_0D,4,What value range does the darkest shade represent?,2150.19 - 17087.45,,N
+14_0D,36,Name the East-most state in the range 28826.1 - 49661.85.,Shanghai,,N
+14_0D,25,What is the median range of the states in region Southwest China?,17087.45 - 28826.1,,N
+14_0D,29,Which range has the smallest number of states?,2150.19 - 17087.45,,N
+14_0D,21,Yes or no: state Sichuan has the highest value in region Southwest China.,Yes,,N
+14_0D,19,Yes or no: the value of the state Guizhou is higher than state Hunan.,No,,N
+14_0D,7,Is the legend discrete or continuous?,Discrete,,N
+6_1C,13,Which state has the highest value in the region bordering Vietnam?,Guangxi,,Y
+6_1C,23,How many states in the region bordering the South China Sea have a value lower than -15?,0,,Y
+6_1C,9,Does the value of Qinghai fall in range 10 - 15?,No,,N
+6_1C,42,"Yes/No: Sichuan has a higher value than Hubei, and also has a higher value than Hunan",No,,N
+6_1C,16,Between which two legend markings does Xinjiang fall in?,10 - 15,,N
+6_1C,6,Yes or no: the map depicts percentages.,No,,N
+6_1C,38,Yes or no: the value of Shandong is above the median value amongst states in the region bordering the Yellow Sea.,No,,Y
+6_1C,40,Which pair of states belonging to the range 10 - 15 are the closest to each other?,"Xinjiang, Guangxi",,N
+6_1C,2,Yes or no: in the legend the colour darkness is directly proportional to the value.,Yes,,N
+6_1C,5,Yes or no: the legend has multiple distinct colours?,Yes,,N
+8_6C,22,Yes or no: States bordering Tibet have higher values on average than states of the region surrounding Beijing.,Yes,,Y
+8_6C,17,Count the states with the values in range 0 - 2 in the region bordering Inner Mongolia.,3,,N
+8_6C,15,List the 3 states in the region bordering Xinjiang with the highest values.,"Tibet, Qinghai, Gansu",,Y
+8_6C,32,Yes or no: state Hainan is an outlier compared to other states in the region bordering South China Sea,No,,Y
+8_6C,19,Yes or no: the value of the state Guangdong is higher than state Guangxi.,No,,N
+8_6C,26,Which states in region bordering Sichuan have a value higher than 8?,Tibet,,Y
+8_6C,11,Which states in the region east of the country belong to range <0?,,,N
+8_6C,20,Name the Northmost state that has a higher value compared to all its neighbours.,Xinjiang,,Y
+8_6C,24,Yes or no: the median state value in region bordering Hunan lies between 4 and 8.,Yes,,Y
+8_6C,21,Yes or no: state Shandong has the lowest value in region bordering the Yellow Sea.,No,,Y
+8_6C,6,Yes or no: the map depicts percentages.,No,,N
+8_6C,7,Is the legend continuous or discrete?,Continuous,,N

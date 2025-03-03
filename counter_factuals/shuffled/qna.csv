@@ -1,0 +1,241 @@
+map_id,template_no,question,ground_truth,c_or_d,relative_region
+20787,16,What value range does state Wisconsin fall in?,627600 - 960700,d,N
+20787,20,Name the state on the west coast that belongs to a similar value range compared to atleast 2 of its neighbours.,West Virginia,d,Y
+20787,27,Which states neighbouring Washington have a value lower than Oregon?,"Maryland, Virginia, Wyoming",d,N
+20787,39,Yes or no: all states bordering New Jersey have values in the same range.,No,d,Y
+20781,35,How many states bordering Canada have a value similar to Florida?,2,d,N
+20774,16,What value range does Washington fall in?,0.055-0.06,c,N
+20746,35,Count the states along the Vermont border with similar values.,2,c,Y
+20746,26,Which states bordering the Great Lakes have a value in the range 0.7-0.8?,North Dakota,c,N
+20746,16,What value range does state Vermont fall in?,0.8-0.9,c,N
+20746,36,Which is the westernmost state with a value in the range 0.1-0.2?,California,c,N
+20746,36,Which is the northern most state with a value in the range 0.4-0.5?,New Mexico,c,N
+20746,18,Yes or no: the value of the state Colorado is lower than its neighbouring state New Mexico.,No,c,N
+20584,16,What value range (legend markings wise) does Connecticut fall in?,10-12M,c,N
+20584,13,Which state has the least value on the west coast?,West Virginia,c,N
+20584,40,Which pair of state with values above 8M are closest to one another?,"New Jersey, Connecticut",c,
+20556,36,"Name the northern most state in the range 1400-18,900.",Oklahoma,d,N
+20556,26,Which states along the east coast have a value same as California?,North Carolina,d,N
+20556,33,Yes or no: South Carolina and Tennessee are a pair of bordering states with the least difference.,Yes,d,Y
+20517,35,How many states bordering Delaware belongs to highest range?,1,d,Y
+20517,34,Yes or no: Vermont is the North most state that has a similar value compared to all its neighbours.,No,d,Y
+20517,16,What value range does state Oklahoma fall in?,8.2% - 10.4%,d,N
+20517,13,Which state has the second highest value along the west coast?,California and Louisiana,d,N
+20517,26,Which states in the west coast region have a value higher than 12.7%?,West Virginia,d,N
+19332,35,How many states along the east coast have a value similar to California?,6,d,N
+19332,36,Name the southern-most state in the range 950-1400.,Florida,d,N
+19332,20,Name the westmost state that belongs to a higher value range compared to all its neighbours.,Michigan,d,Y
+19332,15,Which state on the West Coast has the highest value?,West Virginia,d,N
+19332,19,Yes or no: the value of  New Jersey is higher than Oklahoma.,Yes,d,N
+18501,35,How many states bordering Canada have a value similar to Connecticut?,1,d,N
+18501,15,Which state on the east coast has the highest value?,"Oregon, New Jersey",d,N
+18501,22,Yes or no: States bordering the Great Lakes have lower values on average than states bordering Great Salt Lake.,No,d,N
+18402,12,What is the least value range in the west coast region?,<0.05,c,N
+18402,15,Which state along the Canada border region has the lowest value?,Oklahoma,c,N
+18402,18,Yes or no: the value of the state Minnesota is higher than its neighbouring state Iowa.,Yes,c,N
+18348,13,Which state has the least value in the west coast?,California,d,N
+18348,36,Name the southern most state in the range 63.2-74%.,Connecticut,d,N
+18348,27,Which states in the north east region has the similar valua as New Mexico?,"Oregon, Iowa, Utah, Nevada",d,N
+18348,32,Yes or no: North Dakota is an outlier compared to other states bordering Canada.,Yes,d,N
+17383,12,Which states on the east coast has the highest value?,Pennsylvania,c,N
+17383,27,Which states in along the southern border have a value higher than Oregon?,"California, Maryland",c,N
+17383,32,Yes or no: Oregon is an outlier compared to other states bordering Canada.,No,c,N
+16717,35,Count the states belonging to 12-149 range along the Illinois border.,1,d,Y
+16717,15,List the state(s) in the east coast region with the highest value.,"Oregon, Texas",d,N
+16717,16,What value range does New Jersey fall in?,380-698,d,N
+16717,15,List the state(s) in the west coast region with the highest value.,California,d,N
+16686,36,Name the Northmost state in the highest range.,Mississippi,d,N
+16686,15,Which state on the Canada border has the highest value?,North Dakota,d,N
+16686,32,Yes or no: Washinton is an outlier compared to other states in the west coast.,No,d,N
+16391,35,How many states in the west coast have a value lower than Connecticut?,3,c,N
+16391,16,What value range does state Michigan fall in?,> 0.22,c,N
+16161,15,Which state on the Mexico border has the lowest value?,Connecticut,d,N
+15950,35,How many states bordering New Jersey have a value higher than North Dakota?,0,d,Y
+15950,28,Which state bordering South Dakota has the same value as Massachusetts?,"New Mexico, Virginia",d,Y
+15950,42,Yes/No: West Virginia has a higher value than Vermont and also a higher value than Illinois.,No,d,N
+15641,35,How many states bordering Florida has value in the range 15.6 - 21.8 ?,6,d,Y
+15641,16,What value range the state Indiana fall in ?,9.1-12.7,d,N
+15641,20,Name the western-most state that belongs to a lower value range compared to all its neighbours.,California,d,Y
+15641,15,Which states bordering Lake Huron have the highest value?,Maine,d,N
+15641,33,Yes or no: South Carolina and Tennessee are the pair of bordering states with the highest difference.,No,d,Y
+15117,23,How many states bordering Lake Superior have missing data?,0,d,N
+15117,35,How many states bordering South Dakota have a value higher than state Utah?,1,d,Y
+15117,13,Which state has the least value among the states bordering Mexico?,Maryland,d,N
+15117,30,Does state Tennessee have the same value to state Florida.,Yes,d,N
+15061,35,How many states along the west coast have a value higher than Oregon?,2,d,N
+15061,20,Name the southernmost state that belongs to a similar range as all its neighbours.,Indiana,d,Y
+15061,26,Which states bordering Canada have a value lower than 8200?,"North Dakota, Oregon",d,N
+14598,35,How many states along the North Dakota border belong to highest range?,2,d,Y
+14598,12,What is the highest range along Ohio border?,447-554,d,Y
+14598,12,What is least value range in the West coast? ,308-444,d,
+14598,15,List the southern most state with the value in lowest range.,Connecticut,d,N
+14598,30,Does New Jersey have the same value to Kentucky amongst the states in the south-east region.,No,d,N
+14414,12,What is the highest value range in the region around the Great Lakes?,13.2% - 21.1%,d,N
+14414,16,What value range does state California fall in?,2.9% - 4.5%,d,N
+14414,19,Yes or no: the value of Kentucky is higher than Louisiana.,Yes,d,N
+13792,27,Which states bordering Mexico have a value similar to New Jersey?,Connecticut,c,N
+13555,12,What is the highest value range in the east coast region?,2.5-3M,c,N
+13555,36,Name the western-most state in the range 3.5-4M.,California,c,N
+13555,34,Yes or no: Oregon is the northern most state with value > 1M that has a higher value compared to all its neighbours.,Yes,c,Y
+13396,12,What value range does Wyoming fall in?,80-90,c,N
+13396,40,Which pair of states belonging to the range >90 are the closest to each other?,"Wisconsin, Montana",c,N
+13283,35,How many states have a value similar to Connecticut?,2,c,N
+13283,12,What is the least value range in the west coast region?,0-2M,c,N
+13283,16,What value range does state Oregon fall in?,10M - 12M,c,N
+13283,11,Which states along the Mexico border belong to the range 10-12M?,Connecticut,c,N
+13283,32,Yes or no: California is an outlier compared to other states in the west coast region.,Yes,c,N
+12788,35,How many states along the Canada border have value similar to Maryland,3,d,N
+12788,40,Which pair of states belonging to the highest range are the closest to each other along the Mexico border?,"California, Connecticut",d,N
+12430,35,How may states bordering Connecticut have a value similar to Massachusetts?,3,d,Y
+12430,16,Which value range does Virginia fall in?,245-514,d,N
+12430,36,Name the northern-most state in the range 40-243.,Mississippi,d,N
+12319,35,How many states bordering Virginia have a value similar to Delaware?,3,d,Y
+12319,15,List the states bordering Montana with the highest values.,"Kentucky, Wisconsin, Ohio",d,Y
+12319,42,"Yes/No: Indiana has a higher value than California, and also a similar value as New Jersey.",Yes,d,N
+12175,35,How many states bordering Canada have a value similar to Connecticut?,1,d,N
+12175,20,Name the westernmost state that has a higher value than all its neighbours.,California,d,
+11719,35,How many states bordering Tennessee have a value similar to Nebraska?,2,d,Y
+11719,16,What value range does state New Jersey fall in?,1.6-2.3%,d,N
+11719,22,Yes or no: States on west coast have higher values on average than states on the east coast.,No,d,N
+11349,35,How many states along the Massachusetts border has the same value as Florida?,1,d,Y
+11349,33,Yes or no: California and West Virginia are the pair of bordering states with the highest difference.,No,d,Y
+11274,35,How many states bordering Canada have a value similar to Connecticut?,1,d,N
+11274,13,Which state has the second highest value in the west coast region?,Louisiana,d,N
+11274,11,"Which states along the Mexico border belong to range 249,100 - 809,600?","California, Connecticut",d,N
+10436,35,How many states bordering Illinois have a value similar to Pennsylvania?,2,d,Y
+10436,12,What is lowest range in the south east region?,13.7%-17.0%,d,N
+10436,28,Which state bordering Washington has the same value as New Mexico?,Florida,d,Y
+10436,9,Does Oregon fall in range above 20%?,Yes,d,N
+10121,12,What is the second least value range in the west coast region?,161-390,d,N
+10121,20,Name the western-most state that belongs to a similar value range compared to atleast 2 of its neighbours.,Massachusetts,d,Y
+9685,17,Count the states with the values in range 5.0%-8.4% on the west caost.,2,d,N
+9685,16,What value range does California fall in?,8.7-14.6%,d,N
+9447,35,How many states bordering New Hampshire belongs to lowest range?,2,d,Y
+9447,16,What value range does state New Hampshire fall in?,12610 - 28430,d,N
+9071,13,Which state has the highest value in the west coast region?,California,d,N
+8808,17,Count the states with the values in range 1937-6710 in the east coast region.,2,d,N
+8808,12,What is the highest value range in the west coast region?,1937-6710,d,N
+8808,36,Name the Northern most state in the range 550-1094.,North Dakota,d,N
+8808,20,Name the North most state that belongs to a higher value range compared to all its neighbours.,Louisiana,d,Y
+8808,21,Yes or no: state Kentucky has the highest value in the south east region.,No,d,N
+8616,31,Yes or no: a majority of states bordering Canada belong to range less than 4M.,Yes,c,N
+8576,12,What is the highest value range along Mexico border?,143202-296255,d,N
+8543,12,What is the least value range among the states bordering Maryland?,0%,d,Y
+8543,20,Name the northern most state that belongs to a similar value range compared to all its neighbours.,Maine,d,Y
+8543,40,Name a pair of states belonging to the second highest range are the closest to each other?,"Iowa, Nevada",d,N
+8543,31,Yes or no: a majority of states bordering Mexico belong to range 97-100%.,Yes,d,N
+8391,35,How many states along the Canada border has value less than 0.2 M ?,6,c,N
+8391,16,What value range California fall in?,1.4M - 1.6M,c,N
+8391,26,Which states along the Mexico border have a value higher than Louisiana?,"California, Connecticut",c,N
+8213,35,How many states bordering California have a value higher than Connecticut?,0,c,Y
+8213,12,What is the highest range along the Michigan borders?,0.25-0.3,c,Y
+8213,20,Name the state on the east coast that belongs to a higher value range compared to all its neighbours.,New Jersey,c,Y
+8213,11,Which states bordering Mexico belong to range > 0.3?,Connecticut,c,N
+8213,21,Yes or no: Utah has the least value in the east coast region.,Yes,c,N
+8083,22,Yes or no: States bordering lake Superior have a higher value on average than states bordering Mexico.,No,d,N
+7729,35,How many states on the Canada border have a value similar to California?,2,c,N
+7729,12,What is the lowest value range among the states bordering Lake Superior?,0.2-0.22,c,N
+7444,35,How many states bordering Mexico have a value higher than Louisiana?,1,d,N
+7432,16,What value range does West Virginia fall in?,3.50%,d,N
+7299,15,Which state bordering the Great Lakes region has the lowest value?,North Dakota,d,N
+6617,16,Between which two legend markings does New Hampshire fall?,0.6-0.8,c,N
+6617,9,Does Florida fall in range below 0.8?,Yes,c,N
+6616,35,How many states bordering California have a value similar to North Carolina?,2,d,Y
+6616,16,What value range does state Arkansas fall in?,39.4 - 43.7%,d,N
+6616,20,Name the southern-most state that belongs to a similar value range compared to all its neighbours.,New Jersey,d,Y
+6616,27,Which states bordering Mexico have a value higher than Rhode Island?,"California, Connecticut, Washington",d,N
+6616,21,Yes or no: Michigan has higher value as Virginia.,No,d,N
+5931,36,Name the state in the northeast in the range 50-55.,Alaska,c,N
+5327,12,What is the least value range among the states bordering Lake Superior?,276-373,d,N
+5000,35,Count the number of states along Rhode Island border in the range 0.34-0.36,1,c,Y
+5000,27,Which states bordering Canada have a value similar to Florida?,Oklahoma,c,N
+4270,35,How many states along the Washington border belongs to highest range?,3,d,Y
+4270,16,What value range does Oregon fall in?,1603-1819,d,N
+4270,28,Which state bordering Virginia has the same value as Connecticut?,Maryland,d,Y
+4270,39,Yes or no: all states bordering Connecticut have values in the same range.,No,d,Y
+3689,26,Which states along the Canada border have a value similar to New Jersey?,Oregon,d,N
+2769,17,Count the states with the values in range 3%-7% in the east coast.,4,d,N
+2632,20,Name the state along the New Jersey border the lowest value,Montana,c,Y
+2632,26,Which states bordering Indiana has value less than 50k?,"Hawaii, Alaska",c,Y
+2453,35,How many states bordering Tennessee have a value similar to Nebraska?,3,d,Y
+2453,12,What is the least value range along the Canada border?,55.1-60.3%,d,N
+2453,36,Name the western most state in the highest range.,Florida,d,N
+2453,26,Which states along the Mexico border have a value lower than Louisiana?,"Maryland, Washington, and Connecticut",d,N
+2453,22,Yes or no: States on Canada border have higher values on average than states on the east coast.,No,d,N
+2181,36,Which is the Southern most state with a value in the range 35-63?,Wisconsin,d,N
+2024,35,How many states bordering Canada have a value lower than Washington?,6,d,N
+2024,16,What value range does Minnesota fall in?,10.6-12.5%,d,N
+2024,20,Name the eastern-most state that belongs to a higher value range compared to all its neighbours.,Minnesota,d,Y
+1950,16,What value range does Louisiana fall in?,2-4,d,N
+1950,30,Does New Jersey have the most different value than Oklahoma amongst the eastern coast states.,Yes,d,N
+1347,42,Yes/No: Oklahoma has a higher value than Alaska and also have a higher value than Virginia.,No,d,N
+1342,12,What is the highest value range in the Canada bordering region?,3.3-4.9%,d,N
+1280,13,Which state has the second highest value along the Canada border?,Louisiana,d,N
+1280,36,Name the N-most state in the range 14-15.9%.,Michigan,d,N
+1280,15,List the state without any international border with the highest value.,"Tennessee, Massachusetts",d,N
+1280,42,Yes/No: Hawaii has a similar value as Kansas and also have a similar value as Illinois.,Yes,d,N
+1267,13,Which state has the highest value in the west coast region?,California,c,N
+1220,20,Name the northern most state that belongs to a higher range compared to all its neighbours.,Oregon,d,Y
+1220,27,Which state bordering the Great Lakes have a value similar to Connecticut?,Oregon,d,N
+1220,33,Yes or no: Florida and Maryland are the pair of bordering states with the highest difference.,No,d,Y
+1136,36,Name the West-most state in the range 42-93%.,Florida,d,N
+1034,36,Name the Northmost state in the range 0.4-0.45.,North Dakota,c,N
+1034,20,Name the Southmost state that belongs to a higher value range compared to all its neighbours.,New Jersey,c,Y
+1034,21,Yes or no: North Dakota has the highest value along the Canada border.,Yes,c,N
+957,35,How many states in the west coast have value lower than Washington?,3,c,N
+957,12,What is the highest value range along the Connecticut border?,>0.55,c,Y
+957,28,Which state in the west coast region has the same value to state Illinois?,"California, Louisiana",c,N
+957,39,Yes or no: all states bordering North Carolina have values in the same range.,No,c,Y
+930,40,Which pair of states belonging to the range >200k are the closest to each other?,Nevada and Nebraska.,d,N
+910,13,Which state has the leasest value in the west coast region?,California,c,N
+910,26,Which states on the east coast have a value lower than 0.015?,Kansas,c,N
+910,18,Yes or no: the value of California is higher than the state Oregon,No,c,N
+689,16,What value range does Maine fall in?,1721-3099,d,N
+488,12,What is the highest value range in the northeast region?,27-34,d,N
+488,36,Name the western most state in the range 44-57.,Florida,d,N
+488,28,Which states bordering Vermont has the same value as North Carolina?,"New Mexico, Colorado, North Dakota",d,Y
+340,35,How many states in the south east region belongs to range 4% ?,3,d,N
+340,12,What is the lowest range in the south east region ?,4%,d,N
+340,11,Which states along the Mexico border belong to range 5-7%?,"California, Connecticut, Washington",d,N
+340,19,Yes or no: the value of Virginia is higher than Oregon.,No,d,N
+200,35,How many states in the east coast has value similar to Connecticut?,2,c,N
+200,16,What value range California fall in?,12k-14k,c,Y
+200,36,Name the Southern most state in the range 10-12k.,New Jersey,c,N
+200,20,Name the western-most state that belongs to a different value range compared to all its neighbours.,California,c,Y
+200,15,List the 2 states bordering California with similar values.,"Massachusetts, West Virginia",c,Y
+200,9,Does Oregon state fall in the range 8-10k?,Yes,c,N
+109,20,Name the Southern-most state that belongs to a similar value range compared to all its neighbours.,Pennsylvania,d,Y
+104,12,What is the highest value range in the region aroung the Great Lakes?,14.8 - 25.3,d,N
+104,36,Name the N-most state in the range 6.8-10.5.,Oklahoma,d,N
+104,11,Which states in the west coast region belong to the second highest range?,"Louisiana, West Virginia",d,N
+104,30,Does Michigan have the same value as Delaware.,Yes,d,N
+98,12,What is the second highest value range in the legend?,2.5M - 3M,c,N
+98,16,What value range does state Alaska fall in?,< 0.5M,c,N
+98,42,Yes/No: North Carolina has a similar value as Maine and also have a similar value as California.,No,c,N
+65,23,How many states bordering Lake Maine have a value higher than 50k?,0,c,N
+65,13,Which state has the second highest value in the west coast region?,Louisiana,c,N
+65,36,Name the northern most state in the range 50-60k.,Oregon,c,N
+65,11,Which states in west coast region belong to range > 60k?,California,c,N
+65,9,Does state New Mexico fall in range 0-10k?,Yes,c,N
+56,16,What value range does state Delaware fall in?,1500-2000,d,N
+56,31,Yes or no: a majority of states bodering Canada belong to range 1500-2000.,Yes,d,N
+49,23,How many states bordering Lake Erie have a value higher than 500K?,1,c,N
+49,35,How many states bordering Connecticut have a value similar to state Pennsylvania?,4,c,Y
+49,11,Which states in the north-east region belong to range 500-600k?,Oregon,c,N
+49,39,Yes or no: all states bordering Canada have values below 100K.,No,c,N
+33,27,Which states bordering Massachusetts have a value higher than state Michigan?,"California, West Virginia",d,Y
+33,31,Yes or no: All the states bodering Wisconsin belong to range 119-160.,Yes,d,N
+30,35,How many states in the east belongs to highest range ?,2,d,N
+30,11,Which states bordering the Great Lakes belong to the range 74400-93200?,Illinois,d,N
+19,35,Count the number of states in the lowest range along the West Virginia border?,2,d,Y
+19,36,Which is the Northern most state with a value in the highest range?,Oregon,d,N
+13,9,Does Oklahoma fall in the lowest range?,No,c,N
+9,35,How many states bordering Mexico have a value similar to Michigan?,1,c,N
+9,20,Name the N-most state that belongs to a higher value range compared to all its neighbours.,Oregon,c,Y
+7,35,How many states have a value similar to Connecticut?,4,d,N
+7,18,Yes or no: the value of Kentucky is higher than its neighbouring state Pennsylvania.,No,d,N
+5,16,What value range does state Connecticut fall in?,20M - 30M,c,N
+5,19,Yes or no: the value of the state New Jersey is similar to state Oklahoma.,No,c,N
+4,20,Which is western most state in the highest range?,Massachusetts,c,N
+4,28,Which states in the west coast has the same value as Missouri?,"California, West Virginia",c,N
+4,22,Yes or no: States bordering Canada have lower values on average than states bordering Mexico.,Yes,c,N
